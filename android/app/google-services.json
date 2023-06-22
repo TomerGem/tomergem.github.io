@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961348677004",
+    "project_id": "enducloud-dev",
+    "storage_bucket": "enducloud-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961348677004:android:321a7c420308f27c83faa9",
+        "android_client_info": {
+          "package_name": "com.example.landing_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961348677004-hhok55jjf7k610ei7elas1tm3tvptujs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyfzwfu0Va97fFIjuvfvYzkUKhPQ594_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961348677004-hhok55jjf7k610ei7elas1tm3tvptujs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
