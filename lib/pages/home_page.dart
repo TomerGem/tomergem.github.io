@@ -70,20 +70,36 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               ElevatedButton(
-                onPressed: () {
-                  //     Navigator.push(
-                  //         context,
-                  //         MaterialPageRoute(
-                  //           builder: (context) => const LoginPage(),
-                  //         ),
-                  //       );
-                },
+                onPressed: signIn,
                 child: const Text('Login'),
+              ),
+              const SizedBox(height: 10),
+              const Text(
+                'Privacy Policy',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 10,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
             ],
           ),
         ),
       ),
     );
+  }
+
+  Future signIn() async {
+    // final provider = Provider.of<GoogleSignInProvider>(context, listen: false);
+    // await provider.googleLogin();
+
+    //() {
+    //     Navigator.push(
+    //         context,
+    //         MaterialPageRoute(
+    //           builder: (context) => const LoginPage(),
+    //         ),
+    //       );
+    // },
   }
 }
