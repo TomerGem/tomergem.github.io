@@ -1,0 +1,879 @@
+Introduction and welcome to Nicola and Jonathan
+hello and welcome to inside exercise I'm Emeritus Professor Glen McConnell from Victoria University in Australia the
+idea behind inside exercise is to bring to you the absolute who's who of exercise research so exercise physiology
+exercise metabolism and exercise in health what I'm really wanting is for you to get your information from the
+research experts on exercise rather than from influencers and indeed today I'm dinging to you two experts so a double
+header for the first time so I've got Dr Nicola guess from Oxford University in England and Professor Jonathan little
+who's coming on for the second time from the University of British Columbia in Canada Nicolo is a dietitian and
+researcher with a lot of expertise around these glucose spikes the use of glucose monitors so continuous glucose
+monitors Etc while Jonathan is an exercise researcher who does research with diet as well you will see that
+Jonathan was on the podcast previously talking about keto diets so you might might want to have a look at that as well we've all heard about these
+so-called glucose spikes or glucose excursions and a lot of sort of hype in the media and with um influences Etc
+talking about how you don't want to have glucose spikes you don't want your glucose to rise and it's damaging Etc a
+very important point that came out during the discussion is the difference between having chronically elevated glucose which tends to happen in people
+with diabetes and having a spike or an Excursion in glucose after a meal to
+have an increase in glucose after a meal is normal physiology glucose goes up insulin is released from the pancreas
+your glucose comes down again that's normal physiology having elevated glucose as in diabetes is damaging to
+your body and is something to try and counter so we talked about you know what causes increases in glucose after a meal
+are they important in someone with Type 1 Diabetes Type 2 diabetes if you have normal glucose tolerance uh also we
+talked about how glucose can increase after very intense excise and how that
+is also normal physiology talked a lot about how glucose may just be a symptom not a Cause of a problem people don't
+die from an elevated glucose level per se it's generally if you're a person with diabetes it's more the high blood
+pressure the high blood cholesterol Etc which is damaging to you and not your glucose spikes so we talked a lot about
+that we talked about the pros and cons of using continuous glucose monitors should everyone be using continuous
+glucose monitors or not and there's definitely a lot of pros and cons to consider I found it very interesting I think you will too so stick around
+you'll get the most out of the podcast of course if you watch the whole thing to get the full context but you can look down in the notes and see that there are
+time stamps so you can see for example on YouTube in blue you can see the time if you click on that it will move to
+that particular section and on the other platforms you can see the time that you just can't click on them so if you wanted to jump around you can do that if
+you'd like to help me out and also get the message out more about inside exercise it would be great if you could like subscribe leave comments Etc
+because then the algorithm tends to suggest inside exercise more when people do searches okay so enjoy the chat okay
+hi this is the first time we've done a a double header so we've got Nicola guess and Jonathan little welcome to inside
+exercise thank you for having us it's great to be be back and be here yes so
+Jonathan the second time which is great thanks for coming on all right so and we may even talk about there'll probably
+come up here and there so we talked with Jonathan about ketones and exercise and diet Etc but today we're going to be
+What are glucose “spikes”/excursions
+talking about these glucose spikes so um glucose excursions so is it a bad thing
+do we do we need to worry you know if you have a meal and your glucose goes up do we need to stop that at all costs or
+is that normal physiology does it matter if you're a person with diabetes or not if you're overweight or not all these
+sorts of things and what about with exercise so we'll get to this later on
+but during very high intensity exercise your glucose levels can actually increase is that a bad thing do we need
+to worry about that and what if you're a person with type one diabetes for example so what we thought we'd do is we
+might just start off sort of talking about what are these glucose spikes glucose excursions anyway what are
+people even talking about and and then get into those sort of details so maybe if we start off with Nicola um do you
+want to just explain what are glucose spikes and you know and is that even a good term for it and uh know what's
+everyone going on about so there's no definition of what a glucose spike is or a glucose Excursion
+I think it's generally understood to be the kind of acute transient rise that transient rise you get in glucose say
+after a meal or after a carbohydrate load so it's just the the really obvious
+going up and coming back down again after a meal or a drink and I think it's really critical to contrast that with
+Hyperglycemia in diabetes is very different to “spikes”
+the hypoglycemia of diabetes or even pre-diabetes and I think that's
+something that gets missed which is wild to me that it does but just to absolutely car clarify people have
+started to really care about oh my God glucose of course because of diabetes no one wants to get diabetes people you
+know get worried about it quite rightly but diabetes is where your glucose is
+elevated all the time pretty much so it's elevated during the night when you're fasting maybe for 8 to 12 hours
+and because it's already high in the morning when you have breakfast it's going to go even higher so you're
+spending 24 hours a day with hypoglycemia same with pre-diabetes it's
+slightly lower but effectively your glucose is higher than it should be pretty much all the time and that really
+we have to differentiate between diabetes pre-diabetes and oh my glucose is normal most of the time but oh my
+goodness it's gone up after I eat but but that's what we're talking about I think when we talk about glucose spikes
+exactly and and it kind of makes sense so I'm glad you you mentioned that because that is again that that spins me out that people don't sort of get that
+that you know people can imagine if your glucose is like elevator the whole time it could be doing damage and we know it does do damage versus you just have a
+meal glucose has absorbed absorbed into the blood glucose goes up and then you've got responses by the body you
+know the body releases pan uh insulin from the pancreas that stimulates the tissues to take up the glucose it comes
+down again you know that's just normal physiology and I guess I guess one thing
+if we add on to that is um what about so the person that has type two diabetes for example and their glucose is
+Glucose spikes in type 2 diabetes
+elevated as you say a lot of the time um what about when they have a meal is that
+is that Spike because maybe people are getting confused about that because because okay we know people with
+diabetes they've got to be careful of their glucose levels can we kind of tie that together a little bit maybe yeah I
+think that's where there is some evidence so there is some evidence that post prandial glucose uh when people
+have type type two diabetes that glucose can not only go up obviously much higher than in people without diabetes but it
+will stay elevated for much longer and I think there's quite a bit of evidence that these prolonged um and very high
+glucose excursions in type 2 diabetes let's call them spikes do in fact contribute to disease so it makes sense
+to me and I think for most clinicians that we do care about glucose spikes in in
+diabetes yep yep actually Jonathan did you want to just explain a little bit
+about what sort of damage does chronically elevated glucose do the body
+Why is chronically elevated glucose a problem?
+no just generally and then if you do the then if they people that theal
+chronically elevated glucose have a meal and it goes up potentially why is that sort of damaging
+and coning yeah and without getting into all the molecular mechanisms but you know
+chronic hypoglycemia or elevated glycemia why is that bad it's linked with the development of advanced
+glycation end products or ages so those are just sugar molecules sticking to other molecules um you know in your
+cells and and the idea there is if you have a protein that functions normally
+without sugar stuck to it and now you stick a glucose molecule to it it's probably not going to work uh as well as
+it as it you should or used to as well as it might cause an inflammatory response and you know um that and then
+the other one from chronic hypoglycemia is reactive oxin species or oxidative stress and whether that is coming from
+mitochondria or other uh enzymes that generate reactive oxin species that I
+think you could you could make Arguments for a little bit of both but that's the kind of big picture why is high blood
+sugar it's because of Ages and reactive auction species there is some evidence
+as Nicholas suggested there much stronger in type two diabetes or or
+insulin resistance that during a big Excursion into hypoglycemia there's exacerbated Ross
+and uh inflammatory responses um particularly in your blood vessel so when the the cells lining your blood
+vessels and in your immune cells that are floating around in your blood exposed to this they may have
+accelerated uh oxidative stress and inflammation during that big Excursion and the thought is that that causes kind
+of like a an insult or damage uh and then you come back down and then so if
+this is happening repeatedly on the background of hypoglycemia um that's
+when the problem is and just one other clarification with that spikes I'm sure we'll get to it uh later on with the CGM
+it's it's not only the magnitude it's the duration as Nicholas said in type 2 diabetes when you consume a high
+carbohydrate load that glucose Spike lasts for three four hours and usually
+never comes back down to normal before you have your next meal versus someone
+with normal glycemia good blood sugar control their glucose goes up and within one or two hours it's back down to to
+normal and that's probably normal physiology um that your blood sugar goes up and down uh within a you know one to
+two hour uh window um can I just jump in there and maybe
+add just add a few details on on clinical consequences and the glucose level at which those occur so that's a
+really nice explanation John and I think translating it to like what does it mean for people the first thing that we we
+have you know we're pretty confident about is the relationship between hypoglycemia and neuropathy so
+retinopathy um and basically kind of blood vessels being damaged we have we are pretty confident that happens
+at the level where your fasting glucose is about seven so that's 126 milligram
+per deciliter so 7 Mill per liter 126 milligram per deciliter and here's the
+really really important thing it's not that that seven is some kind of threshold that can't be crossed like oh
+my God you get to Seven boom we get damage it's that when investigators went back to look at these large data sets
+what they found is that if people had a fasting glucose of 7 mm per liter they
+nearly always had a 2hour glucose of 11.1 that's 200 milligram per deciliter
+and it it's probably that it's this because if at two hours after a glucose tolerance test your glucose is 11.1 Mill
+mole per liter 200 milligram per deciliter guess what it was probably at
+15 mm per liter before and it's going to stay like John said elevated for 3 to four hours that's what's causing
+retinopathy we are we have as certain as we can be in science that's the level at which that happens I would say that with
+cardiovascular disease it's a bit more uncertain so that's the other thing that that those processes that John talked
+about can cause and that's macrovascular disease so things like basically strokes
+and heart attacks because at the end of the day despite you know the retinopathy which can really impede quality of life
+what kills people sadly is strokes and heart attacks and it looks like that damage happens a lot lower than the cut
+offs I gave for retinopathy and and we can talk a bit more about that right okay so just to make sure people
+are clear that so with the micro vascular we're talking about micro mean you know small so the little blood vessels so as you said affecting your
+retina your kidney uh Etc your blood flow and and then the macr the bigger
+vessels so you coling your heart disease yeah and and you're saying that 7.1 which is 126 in the the US language um
+Confusion about glucose levels 2hrs after a meal
+is is people get caught up on that as you said and then they think oh I can't go above that so if I have a m goes
+above that you're saying it's very different because the fact is that the people that have the the slightly elevated well the elevated glucose they
+are then going to get more elevated after a meal and that's that big kind of pressure on the exactly and it comes
+back to you know pragmatism in terms of who do we screen I mean ultimately this is why you want to get these numbers
+right so people are going to their primary care if you do a glucose tolerance test it's a fantastic test but
+it can take two hours people have got to fast it's labor intensive cost Healthcare Systems more the great thing
+about identifying this relationship between the fasting glucose and the 2-hour glucose is that you only needed
+to do a fasting glucose to be able to say with a decent amount of confidence right these are the people we need to
+pay attention to let's get them the right care so we can lower their glucose and improve their their overall health
+GL you brought that up just to sorry just to hammer that home for those values the those cut offs don't mean if
+your glucose goes above this you get Dam Dage and will have that they mean in an
+observational study those were the thresholds where we saw you know clear distinct increases in risk of
+retinopathy Etc so that that makes sense so to make it's kind of like that pseudoscience right like you know a
+little bit that's the cut off for rathy therefore I can't go above that stud
+show right so John can I just to emphasize just in just to really make
+this clear thank you John for saying that because what I hear is people saying oh I got diabetic or pre-diabetic
+levels of glucose and people say oh I got pre-diabetic levels of glucose
+because my GL glucose went above 7.8 milles per liter after I ate but that's
+the cut off for pre-diabetes when you're looking at the concentration of glucose two hours after a glucose drink so again
+like like we've been emphasizing if your glucose is still that high two hours after to wait something guess what it's
+high all the time so I think John we've emphasized that just a one-off glucose
+measure has no relationship to these very standardized cut offs which are looking two hours after you have a
+glucose drink great right I think this is great that we've emphasized it I want to emphasize it even
+more yeah so you're saying as you're saying people worry oh 7 ones cut off
+which is 126 yeah in yeah yeah so it's 7 m per liter or 126 milligram per deiler
+correct I'm so used to milles per ler anyway so as you say are they measure it oh I'm above that that's a bad thing but
+you're you're saying if you're above that after two hours after you know an noral glucose tolerance test which is
+taking 75 grams of glucose then it goes up and it comes down or you know it's so different to being elevated the whole
+time going up and then down is totally normal Okay so we've talked about people with type two diabetes um what about
+Underlying insulin resistance is the problem not spikes
+people with type one diabetes what do we have to think about with them and hopefully we've made it clear enough
+that that you know people that are nor normal healthy as far as we know they don't have any insulin resistance any
+gluc in tolerance they don't really have to worry that much about their glucose levels so I would just add a a couple of
+clarifications there about 60% of the population have insulin resistance and that's that's
+probably has negative consequences that is related to cardiovascular disease but what keeps their glucose at normal
+levels is that their beta cells can compensate we think for the insulin resistance so it's not to say that you
+don't need to worry about potentially your glucose creeping up in the future
+if you have insulin resistant but I think it's more about does elevated glucose cause some
+of these things to happen so for example I I hear people saying oh glucose Peaks
+contribute to the development of type 2 diabetes whereas I think they have it the the wrong way around because it's
+probably far more likely people have this underlying pathophysiology they have insulin resistance their beta cells
+stop working properly that's when glucose starts creeping up and you might see gradual increases in these glucose
+excursions that don't get to pre-diabetes yet but it doesn't mean there's nothing going on there yeah is
+it is it too simple to summarize that it's almost it's not the Peaks generally it's the ba Baseline that you got to
+more worry about so if you're kind of running high and then you have a meal sure the peak might be greater but it's
+not it's not like oh I've got a high peak therefore I've got a problem it's like why do you have a high peak and and you've got a problem with your Baseline
+physiology is it this is a really interesting point
+because again it comes to cause and effect lots of people will look and say oh my goodness you've got a really high
+glucose Spike now if that glucose Spike came as a you know let's let's put a number on it let's say it is 12 Mill per
+liter which I'm making this up but this is probably around 210 220 milligram
+right so we're getting that high that's probably higher than you'd want it to be maybe that's an indication something's
+going on if you had that as a result of having like 50 grams of carbohydrate not
+much that's probably a sign either you've got some insulin resistance and
+Al probably your beta cells are beginning to to dysfunction
+so the the glucose Spike you see whether or not we need to be concerned about it
+probably depends on knowing what's going on underneath and not just the glucose bike per se because for example I've got
+no family history of type two I'm a long-distance Runner I exercise a ton once I had I was wearing a CGM for a
+project we were doing I had an entire pizza at like 2 uh a.m. the Night worst
+thing in the world and I think my glucose got to 11.1 so no higher than night I think it was like 11.5 Mill per
+liter so pretty high and I wasn't remotely concerned and again it we we
+don't have enough information to know right now what's a concerning glucose
+Spike I wasn't concerned because I'm like I know I don't have any risk factors but like I said if someone is
+getting yeah glucose creeping up higher than you would you would possibly want after a very small amount of
+carb it shows that something's going wrong underneath yep Jonathan maybe if
+you could chime in here what I wanted to do is also talk about because you know Nicola you talked about you know you go
+Fasting glucose and insulin measures and the liver
+and get your measures done you're fasted you have an orous tolerance test as we know that isn't usually what happens
+people will go to their do the doctor might say well come in fasted more measure so what do you just talk about
+how if you just do fasting glucose or fasting glucose and Insulin that's not giving us the whole picture did you want
+to just explain that a little bit sure yeah and just I think it's related to what I was going to make a comment there
+but so if you go in to get your fasting you know metabolic Health measures right
+the the easiest if we're talking glucose control that you'd measure your fasting blood glucose and as Nicola mentioned
+there you know figuring out what's going on under the hood you need to know a little bit more than just glucose um and
+usually we would then measure insulin so fasting glucose and fasting insulin you put those together and I explained this
+to my students in in uh class we just had our exam that tells you how good is
+your liver at regulating your GL your blood sugars right because your liver is constantly leaking out blood glucose to
+maintain your blood sugar levels so if your liver is too leaky then fasting
+blood glucose tends to rise up what would happen there your insulin would your beta cells would produce insulin to
+try to keep it in check so that the balance of that if it's costing you a lot insulin to keep your blood sugars in
+check then your homos score you essentially multiply the fasting glucose and fasting insulin together it would go
+up if your blood sugar is high and your insulin High then your homo score is
+even higher so that's telling you what's going on in the hood and as Nicholas said in the beginning we think that what
+would happen is the beta cells would the beta cells for for both of you would
+would produce extra insulin and keep the blood sugar sugar in check so that's why some people think oh we need to measure
+or we better to to measure both glucose and Insulin fasting is not the whole story
+because as we just mentioned it's pretty much just telling you what the liver is doing so that's why you want to if you
+want a full picture you want to challenge the system with a glucose load or a carbohydrate load and then you get
+Meal tests and oral glucose tolerance tests
+a more Dynamic measure that tells you how good are your beta cells at producing insulin when they need to and
+how good is that insulin work primarily on your muscles but other tissues involv are to clear that glucose out and just
+to so then to put that together with the context of spikes and the Baseline it's
+the integration of your Baseline chronic hypoglycemia with the magnitude and the
+duration of the spike which is probably linked to your health and again these things are interdependent so they
+evidence of underlying insulin resistance and beta cell dysfunction you have high spikes and they stay up for a
+long period of time so figuring out which one came first or which is the you know culprit if you consume
+carbohydrates and your blood glucose spikes up and comes back down to normal I think it's evidence that everything is
+working as it should but there's there's context so as Nicholas said if you if
+you have a small amount of carbohydrates and it goes up for a long period of time very high clearly that would be a case
+um and I'm sure we'll get to this where a continuous glucose monitor might unmask something that you wouldn't uh
+otherwise know but I don't think that everybody needs to be running around keeping their glucose in a flat line all
+all day long by by never allowing glucose to go up exactly and that and that's almost where the point's got to
+now people are getting we'll talk about the pros and cons of continuous glucose monitors in a bit but you know saying
+you need to get a glucose monitor and and and make sure you're not getting any of these spikes you want to be almost like a flatline and and I think we're
+making it kind of clear that that that's not that's just not normal normal physiology now the good thing you touched on there is I'm glad you did is
+that the the fasting levels of your glucose are more related to your liver and and as you say when we're talking
+about insulin resistance and things like that when you have a meal and your glucose goes up what determines it
+coming down again is largely not entirely your muscle your muscle is a major side of glucose uptake so we're
+talking about very different things now what what I want to touch on as well is is how initially so if you are insulin
+so just to clarify as well if you're insulin resistant as it sounds like your body's kind of not responding properly
+to insulin it's a bit resistant to it so if anything you need to release more insulin to get the same response so you
+have a meal your glucose goes up and then it comes down and then as you be if you're becoming insulin resistant so for
+example you might be overweight uh inactive Etc then you need more insulin
+to get that same response okay now what I wanted to bring in so that's the insulin resistance you need more insulin to get the same response and then as
+Nicola touched on that's assuming your beta cells from the pancreas are doing their job releasing insulin but you know
+later on you can have problems with your insulin secretion as well what I wanted to touch on is this concept that if you
+just measure the glucose so if you did an AOG glucose tance test so you go and fasted you drink 75 grams of glucose you
+follow your glucose over two hours usually sometimes three hours you may actually get a situation where the
+glucose may look normal right yeah and and then why don't you just touched on that Nicola that
+that it's when you measure the insulin you might see something going on yeah I mean I think it's really just
+reiterating the point that John made glucose alone in isolation doesn't tell you that much because like you said um
+glucose could go up and it comes down really quickly but that you wouldn't be able to tell whether your beta cells are
+having to work into in overdrive to bring that glucose down again so for that reason glucose is not on its own in
+my view a use useful measure and I think the other thing to also make really clear is elevated glucose is the
+Being careful not to make the underlying pathology worse
+consequence it's a symptom of stuff that's going wrong underneath and I think maybe we'll touch
+on this later on this is so important when we think about well what do we need to do to prevent cardiovascular disease
+what do we need to do to prevent type 2 diabetes because if you have this idea in your head oh the glucose spikes the
+elevated gluc is causing things then the behavior you you engage in to address
+those could be good or bad um so just to give you an example um because we're going to move on to exercise you know
+one of the things if people do to control their glucose they might go oh I'm going to exercise because exercise is going to bring down my glucose that
+would be a great thing to do for prevention of type two diabetes conversely someone might say oh I'm
+going to have a really high fat meal um lots of saturated fat not much fiber Etc
+to flatten my glucose to lower my glucose that marginally maybe but probably could also contribute to
+insulin resistance so you're engaging in a behavior to treat a symptom and by doing so actually making the underlying
+pathophysiology worse great right that that's really okay so I'm glad you've you've gone there so I think we've
+basically explain the spikes and what's going on under the hood Etc enough and
+yeah I wanted to then start thinking about effects of diet and exercise so so
+Keto diets: type 2 diabetes vs weight loss vs exercise
+I've actually we've already had Jonathan on talking about uh keto diets and you
+know um the pros and cons of them if you person with diabetes for example if
+you're overweight versus a person that's exercising and I guess is it fair enough why don't you just do a very quick
+summary Jonathan if you're going to do like a one minute summary of of your talk and people can go and watch the
+whole thing and then maybe we'll expand on that how does that sound okay um so
+two minutes if you have type two diabetes Andor glucose intolerance pre-diabetes
+then lowering your refined or total carbohydrate in take probably will help
+improve your blood sugar control and that just makes sense if eating carbohydrates makes blood sugar go up
+and you consume less of them then your blood sugar control is uh likely going
+to be improved the pro the issue with food is if you take out one macronutrient you
+need to replace it with something else so what you replace it with probably matters if you have type two diabetes
+maybe you know nicka alluded to It Low carbohydrate and a little bit more saturated fat might be a decent
+trade-off for you I'll I'll keep my sugars in control and I'll take a little bit of hit on on another outcome um so I
+think that would summarize my my the previous podcast and my my view on that if you don't have insulin resistance
+pre-diabetes type to diabetes I don't see evidence nor a reason to follow a keto diet or a low
+carbohydrate diet in terms of your health or your performance now if you
+like that or or you want to try it um I think you could give it a go but we
+don't know the long-term consequences of that we do know that people tend to not
+stick to restrictive diets for a very long time so I always tell people if I had type two diabetes I would probably
+follow a low carb or ketogenic diet because I don't I I don't think it makes
+sense for me to follow a very low carbohydrate ketogenic diet now because I have no idea what's going to happen if
+I stick to it for five years but I then I tail off or 10 years and then I tail off I have no idea what's going to
+happen uh in that long term so hopefully that summarizes what we talked about
+last time and hopefully my dietician colleague would would agree with me there I think she probably would but I'm
+not sure so I'm not going to disagree I am gonna clarify and I'm sure it was just from brevity that that you didn't
+go further I mean first of all I want to say John makes an excellent point people talk about what's the best diet and it
+really depends on your situation and I completely agree with John like if you have type 2 diabetes already and glucose
+is a serious risk factor for complications of diabetes it totally makes sense to follow a diet that that
+focuses on lowering glucose and like John says if you don't need to worry about glucose what have you got to gain
+and potentially like I kind of said before about saturated fat potentially there could be some negative
+consequences from following such a diet the thing I just to clarify about what John said I don't think there's much
+evidence any in fact that lowering carbohydrate a little bit improves blood
+glucose levels independent of weight loss unless this is under two conditions the first is that you're replacing
+carbohydrate with quite a bit of protein that seems to be very effective lower your carbohydrate a bit replace it with
+a lot of protein that seems to be excellent at improving glucose even if you don't lose weight and the second
+thing speaks to John's work itself and that seems to be once you get low enough in carb that you generate ketones that
+seems to have an independent effect on I think endogenous glucose production so the amount of glucose that the liver is
+producing and that lowers circulating glucose again even if you don't lose
+weight so it's small clarification but I don't disagree totally agree and yeah I think
+the um disentangling weight loss from carb intake is challenging because typically on a very low carbohydrate
+diet people eat less total calories they tend to lose weight at least in the short term so then you can't disentangle
+as Nicholas said lowering of carb from the weight loss uh independent effect so
+I think we are in agreement on that you made the sorry can I just just in case folks who follow a low carb diet write
+nasty comments I and people kind of say I'm being too kind of academic when I say independent of weight loss because
+like John said most people even if they only reduce carbs a bit do in fact reduce calories and they lose weight so
+in practice we see this in clinical practice a lot low carb diets can be fabulous for people with type two
+because they lose weight and you get these reductions in glucose uh independent of weight loss or or with
+yeah and Jonathan made the the point in his chat the first time that uh part of the reason people um lose weight is they
+don't have as many options so they go to eat something I can't eat that I can't eat that so you just don't eat as much
+okay so so people can have a look at that one and we can I'll follow up in the future with that but um yeah and the
+other thing Jonathan I just wanted to point out as you because because we have a lot of people it's you know uh that
+athletes and things that are interested in this you made the point that that that um low carb diets aren't the
+greatest if you want to do sort of high-intensity exercise generally is that fair to say we totally agree yes I don't want to
+open that can worms today I don't think no no it's fine so people can have a look at that all right so so we've
+touched on here and there um how you can measure your glucose levels and and I
+touched on for a while there there's almost this thing out there in Twitter land Etc that that elevated GL
+increasing of glucose is should be avoided at all costs how how do I could do that buy yourself a continuous
+Glucose even in diabetes is not as important as we think
+glucose monitor then you can watch watch it the whole time so what do we what do we think about that so maybe if we start
+with Nicola um who who should consider should people consider looking at their
+glucoses using a continuous glucose monitor I guess what what even is it continuous glucose monitor and then um
+you know who should who should look at it who shouldn't who should look at it for a little while and then put it away again Etc so so a continuous glucose
+monitor basically is a device that can measure your or estimate your blood glucose uh and it takes glucose measures
+about every five every 10 minutes 24 hours a day you can wear them for S to 10 days so you can kind of get this
+continuous picture of what your glucose is doing at night in the morning lunch
+Etc so it's it it could in theory provide a great snapshot of what's going on in terms of who should be using them
+let's take a step back and and think about what do people want from these devices because I think ultimately I
+mean let's mainly stick to cardiovascular disease just because this is what kills most of us is
+cardiovascular risk factors so depending on the the C offs and the you know diagnostic C offs that you use maybe
+around half the population have a level of blood pressure that is contributing
+to cardiovascular disease and causing early death likewise maybe a third 40%
+have a level of elevated cholesterol again it these numbers depend on the population and how you define it but
+have a level of cholesterol that is contributing to early death what about glucose type two diabetes or diabetes is
+probably about 10% of the population so about 10% of the population have based
+on the best evidence we have a reason to be concerned about their glucose but here here's the thing even if you take
+those people who have a level of glucose that we recognize as being a disease it
+it it's recognized as causing damage glucose isn't necessarily the thing that
+harms those people because like we said before people with diabetes they die of stroke they die of blood pressure and
+what we know about um drug trials where glucose is reduced so if you get glucose
+down to let's call it a non-diabetic level in people with diabetes that doesn't necessarily prevent
+cardiovascular disease it doesn't necessarily prevent these complications from occurring or hard end points from
+cardiovascular disease and that is so crucial to to getting at this point is
+glucose even in diabetes doesn't matter as much as people think it is so then we
+move to people again you know we'll call normal glycemia like a hemoglobin A1c of
+um less than 5.7 I mean I think there's a gray area there but we understand it to be less than 5
+.7 in most of those people they they would be in my view they should be more
+Are continuous glucose monitors (CGM) useful?
+concerned about their blood pressure and their cholesterol based on the evidence we have about that contributing to early
+death so then what about cgms what are you going to do with a CGM if you're if
+it gives you this glucose Centric approach to diet so you're thinking oh
+you know get this constant reminder oh your glucose is going up it's going up what do you do about it and this is a
+big unknown but what I see lots of people doing is they cut out fruits they cut out um
+foods that have you know potassium and goodness things that lower blood pressure so you're cutting out foods
+that could be very helpful with regard to a genuine risk factor likewise I mean I see a lot of
+these CGM companies saying you know have some M maybe Greek yogurt not terrible
+at all the saturated fat content you know in a very small amount is probably doesn't make a difference but it's kind
+of perverse to me that we are worrying about GL glucose spikes in
+people with normal glucose homeostasis so far as we know and in doing so potentially discouraging people from
+actions and behaviors that we know to be healthy so to summarize I am not clear
+right now that that cgms are useful simply if it's about keeping an eye on
+those glucose spikes and it's it's largely because we just simply don't don't have any
+evidence that we need to be worried if your A1C is a certain level how high your glucose is getting but let me just
+finish by saying these are new we don't have data right now we don't have longitudinal data sets where we know you
+know or we have metrics of these glycemic spikes in hundreds or tens of
+thousands of people and then we can look and see does it contribute to Alzheimer's disease so if we get that data I'll change my mind and I think
+another potentially important point I have a colleague who's a GP and he saids do you know what I see Nicola when I
+give people a CGM even if they don't have diabetes what they do is they just cut out the crap they just eat better it
+nudges them to eat better and that's a testable hypothesis there is one study but it's not very big I don't think it's
+powered but it we could get data you know with a structured program does a CGM provide people with these nudges to
+keep an eye on their portion sizes to limit processed carbohydrates I'm open minded that cgms could be useful in
+those people so that's my long spiel wow that that's really great because um I
+love doing these podcasts and partly because I learn I'm learning stuff myself of course so yeah I my feeling
+before we you know you can probably tell the way I was kind of asking the question is that you know people with type two diabetes yes definitely people
+with type one diabetes yes definitely which we haven't we haven't discounted that but then my feeling was almost
+everyone even though I don't feel like everyone should be wearing just glucose monitor my feeling was almost everyone could get something out of it by you
+know wearing it for a couple weeks and seeing what happens with diet with exercise and things like that and and I know you're not necessarily going
+against that but the main thing I just picked up there was was yeah that that
+that as you said it's a symptom not the cause so even with people with type two diabetes the elevated glucose if they
+had that if they got that perfect per uh you know perfectly controlled um they've still maybe got the high blood pressure
+they've still got the other factors they may not exercising enough all these other things which are probably what they're going to kill them not their
+Too much focus on glucose than more important things
+actual exact glucos is that absolutely and I think it comes down to what information do people think
+they're getting from these devices and I'm not judging individuals and the public at home who use these devices but
+what they're being told is get an insight into your metabolism but as
+we've talked about as John clearly explained glucose without insulin doesn't tell you much at all exactly
+what information you think is telling us yeah I love the way that Nicola hadn't
+thought of it exactly that way and um but to add to that you know if if using
+a CGM and then cutting out all the fruit or carbohydrates that you eat in your
+diet to keep it distracts you from doing another health behavior like exercise or
+physical activity which has a whole bunch of Health uh benefits you're you're kind of moving the behavior you
+know focusing on keeping your blood sugars um steady um through whatever means possible and not
+paying attention to your blood pressure your cherol um but also your um your physical activity or like other
+behaviors that probably are more more important or we have more evidence for sure that
+will prolong your life or prolong your healthy life exactly these these are just really really important points now
+I can't help being reminded really good friend came over yesterday and she broke her ankle like shocking and she she's
+all happy with herself well before she broke her ankle she was you know lean fit exercising a lot she actually broke
+her ankle on a bike crash and it was just horrific the she's had 12 operations since then skin grafts all
+sorts of things she got Goen staff in hospital but anyway bottom line is she said ah I really want to get you know
+lose weight now my ankle's settling down and things like that so I'm on a low carb diet and I I just like I didn't
+even know where to start like and it wasn't appropriate just having a chat you know um with my wife myself and her and so
+how do we even go around that because it's just I don't know I think it's last time I was in America I've been there for a bit everything's low carb well the
+you know the menu is low carb how do we you know and and assuming it's because they try not to get these
+glucose spikes how do we even respond like what do we say
+to I'm not I don't know back to I think your question just to clarify maybe and
+I think Nicola was saying is if you have type one diabetes like CGM is amazing
+CGMs very important for people with T1D
+right yes if you have type two diabetes it's probably a good tool and we're getting more and more evidence that just
+having a CGM and type two diabetes with maybe a little bit of Education can help your control your blood sugar levels um
+I think there's emerging evidence that maybe as a screening tool type of in
+someone with pre-diabetes maybe CGM could be uh useful there but I think in the normal population or normal glycemic
+population looking at it could be interesting like go ahead it's fun I we have them in the lab I'll wear a CGM
+once in a while right but it's not going to prevent all my spikes it's it's probably not that useful for enhancing
+health of someone with normal glycemia um so I think just to clarify I don't want the readers or the sorry the
+listeners to think that uh you know we're we're down on CGM um there is some
+uses for it but just for a normal G MC person I don't think it's uh any thoughts
+niola I mean I I think it's might be sobering to understand that cgms aren't
+CGMs and anxiety
+even without risks in people with diabetes so if you speak to any clinician that manages patients
+particularly with type one but also with type two because because lots of people now increasingly we don't the NHS sorry
+to clarify provides cgms now for anyone with type one so you get to be able to
+manage your glucose that way so that's very very common now and increasingly I think people with type two are are
+purchasing these these devices But anxiety is a real clinical issue that
+people are that people are seeing even in people with diabetes who use these devices just having these constant
+reminders of of being concerned and being or maybe not concerned alert you
+know every meal is kind of a test for some people or it feels that way so I think it's important to recognize some
+people will be really empowered and it's trans formed the lives of many people with diabetes because they no longer
+have to wait three months or a year to go and get an A1C and it's great to feel you know I know what my glucose is doing
+I can take action but it's not without um just yeah like I think anxiety is
+just the best word for it and I had in my in my private clinical practice
+people without diabetes who've used these devices and actually apart from and sadly elevated cholesterol that's
+the one you know major clinical risk factor I see M using cgms but the other
+Some people on CGMs have higher cholesterol
+is is they develop an uncomfortable relationship with food they stop enjoying
+food um and very often because of the issue that we spoke about at the start
+this idea that oh my God if my glucose ever gets to 7.8 at any point and as a
+reminder that's 140 milligram per deciliter people think if it gets to that at any point oh my god I've got
+pre-diabetes and I started writing about this because I would have people come through my clinic and they would write
+and say I've got pre-diabetes so I begin the consultation and we talk about
+Misunderstanding of pre-diabetes re CGMs
+pre-diabetes and I ask when I do my you know medical review what's your A1C and people have an A1C of
+5.1% which is almost athletic I mean just an incredibly healthy A1C and oh
+okay what makes you think you've got pre-diabetes oh well I've got a CGM and it goes up to 7.8 or it goes up to
+eight and and and it causes physiology absolutely and actually I kind of enjoy
+those consultations because I get to say don't worry about it many of them have responded by going very low carb
+endeavoring to keep their glucose flat like I said in some but not all their cholesterol goes up but most importantly
+they're pretty miserable because they've cut out all the foods they like and and maybe I can just add add
+one thing that that I think really illustrates the concern about people
+using these devices and hearing bad advice or getting no advice is that if you go low
+carbohydrate for even five days if you then have a food with any amount of
+carbohydrate in it you get an exaggerated glucose response so again I see this people have got these cgms they
+think they've got pre-diabetes they go low carb and then they think oh I really miss
+lentils so they'll have a serving of lentils but guess what they get this exaggerated response I can't do that
+again oh I can't tolerate LOLs and they go around in this vicious cycle of thinking oh god I've I've got
+pre-diabetes and in fact I mean let me just emphasize one of the earlier studies that show that saw how important
+carbohydrate intake is to glucose tolerance was in young lean uh males and
+females I think it was both sexes 5 days of 20 grams of carbohydrate a day they
+gave a glucose tolerance test on the fifth day and these people came back as
+pre-diabetic going low carb develop your causes this kind of I would call it physiological insulin resistance so John
+Metabolic flexibility in response to what eat
+can probably go deeper into that if needed but but you get this insulin resistance so even if people weren't
+pre-diabetic to begin with once they go low carb and then they're trying to experiment with foods with the CGM then
+they're freaking out because they get this exaggerated response to lentils or a banana and it's just it's really
+unfair that they're not getting good guidance about how to use these devices and what the numbers mean and and again
+if people can go to Jonathan's maybe just respond quickly Jonathan but Jonathan talked lot about this how the
+body just responds to what you give it if you know if you give it high carb it gets used to high carb give it low carb
+it gets used to high low carb and then you give some carbs it's going to go whoa did you want to just say a little
+bit about that Jonathan yeah no it just makes it's it's almost like metabolic
+flexibility if if you're metabolically flexible and and have good metabolic control you would become a preferential
+fat burner um after five days of a low carb high fat diet we probably don't
+need to get into the potential mechanisms you know in your muscle or your beta cell that um but that would be
+normal you likely get back um you know within a few days to um to getting that
+uh insulin sensitivity insulin secretion back but to my point before we don't know what happens if you follow that for
+five years and then start introducing carbohydrates it's interesting to hear that Nick so I'm not a clinician but I
+have Endocrinology colleagues and and again I apologize not the right most inclusive language but they call them
+the nervous normals right that come into their practice and have worn a CGM and
+“Nervous normals”
+now they they're an endocrinologist specializing in diabetes and they have someone showing up essentially saying that I I think I have diabetes can you
+treat me because um my glucose went up to you know 10.4 when I had this uh meal
+one day or whatever right so um again it's not it's interesting if you want to
+explore it but this the uh you know unintended consequences of um pushing
+this uh around on on everybody or to think that that's the case is is um
+misinformed great all right so is has anyone actually looked to see if um continuous glucose monitor use increases
+Eating Disorders it sounds like it might I don't think the data is out there right same same I think it is I
+guess if we're you know we're not we're not we're scientists here we're not going to guess but it looks like if anything it's it's it's having some
+negative effects in that regard if if some people I guess it depends on the personality type yeah and just to add to
+that we do I think there is some studies that that show just giving someone a CGM that isn't a great weight loss tool or
+anything like that right you you need to if you're going to use it you need to partner it with some sort of behavior change and education and that sort of
+thing so maybe that would could be where it could be useful um but I think we
+don't have the the unintended consequences of of this are not uh we don't have the data yet on that and it's
+important to think about yeah and I really should emphasize I mean I I I have a very um biased view in the sense
+that people come to see me because they've got they've had problems with these devices and if there are people
+that have got a CGM and they've done really well they're not going to come and see me so I think that's important to recognize that I'm looking at a
+snapshot from my clinic um but I think again it comes down to data and evidence that as people increasingly use these
+cgms will be able to see you know the good and the bad that that come out of their use and it is it is complicated as
+well because it just when Jonathan said about um whether you lose weight or not even if you lose weight as Nicholas said
+Is how one loses weight important?
+earlier on um is that necessarily a good thing because it depend if you're cutting out I mean obviously generally
+losing weight is a good thing but if you're doing it by just cutting out all these fruits and vegetables and things to make
+sure um you know you're not getting glucose spikes then is that a good thing so I guess a more General
+thing sometimes you might think a I'm overweight if I'm losing weight who cares what I'm eating is what do we
+think about that um if someone was saying I'm I'm on I've got a glucose monitor and I'm avoiding all these
+spikes so I'm not eating much covero hydrate and I'm actually been really careful when I'm eating and I've lost weight how do we respond to that I know
+it depends on the individual one I mean so I mean I've had a lot of experience of this in my clinic in that people have
+lost for example 15 kilograms from doing a low carb diet and they've been told by
+a doctor oh my goodness you shouldn't do that and obviously the great thing is about we having Primary Care they get
+their lipid panel checked and all of that kind of thing but there is just this anxiety about low carb diet in
+particular but my view is what we know about the impact of 15 kilograms of
+weight loss and someone with type two diabetes they get the weight loss reduces blood pressure massively it
+reduces glucose massively it reduces inflammation massively so if you're improving most of your clinical risk
+factors with weight loss my view is it doesn't really matter how you did it
+exactly nevertheless like it it does when I see these patients I'm like hey keto works for you great but how about
+making it as healthy as we can by adding low carb fruits in by having as many veggies uh nuts and seeds and goodness
+that we know is probably pretty important for vascular function um and those kind of things uh long term yeah I
+guess can we think about low carb and because there's low carb and there's low carb so people that are thinking I want
+to avoid past and somehow potatoes become the worst thing in history as well those are macro sort of carb things
+and then other people are like oh I don't want to eat lettuce or can we just clarify you know there's very big
+differences in the carbohydrate content of foods anyway so you know if if you are going low carb and we've talked
+about pros and cons of that cutting out pasta and potato which which to me just
+scares me because I love all that stuff is is different to like you know not having blueberries and not having you
+know a banana and things like that is that fair to say yeah so it comes down to I mean the amount so the predominant
+contributors to total carbohydrate in in most western diets have been things like potatoes rice rice pasta Breads and
+cereals so that there's the number thing there but there's also the type of carbohydrate so car car carbohydrate is
+an umbrella term for loads of hro you know heterogeneous molecules sorry not
+molecules kind of disaccharides and monosaccharides which all differ in
+their um glycemic uh impact and also what they do generally to the body for
+example if you have fruit they tend to have far well a bit of glucose some sucrose some fructose and kind of the
+mix of that means the impact they have even though they have a small amount of carbohydrate the actual glycemic impact
+is much smaller so yes it's a carbohydrate containing food but it's the type of mono and disaccharides that
+don't cause a massive rise in your glucose levels in addition they probably have these compounds that we think stop
+glucose or slow glucose absorption at the level of the the gut um Lumen so you
+have quantitative differences because starch provides so much carbohydrate but there are also qualitative differences
+in terms of the carbohydrate and fruit and veg is absorbed and metabolized quite differently y okay perfect now
+we've touched on type one diabetes and type two diabetes but maybe just need to clarify so I want to just make sure people are clear type 1 di people with
+What about CGMs in type 1 diabetes?
+type 1 diabetes don't have their insulin um being secreted properly so they need to inject insulin and you know it's it's
+life-threatening if you inject too much insulin your gluc drops you can die if you don't inject enough insulin glucose
+be elevated that's not good so they definitely there's no argument they need to be keeping an eye on their glucose
+whether they have glucose uh continuous glucose monitors or doing finger Pricks no arguments there type two diabetes I
+just want to kind of summarize what you were saying so you touched on hemoglobin uh A1C so in case people don't know like
+Do CGMs result in favorable changes in behavior in T2D?
+Jonathan mentioned earlier you know glucose is sticky it can stick to things it can stick to hemoglobin and you get
+an idea you know about roughly about your last three months if your glucose has been
+well controlled if you've had a lot of elevated glucose you know constantly you'll have more um you know higher
+percentage of your hemoglobin A1c right and I think what you were getting at earlier on was um that you know even a
+person with type two diabetes is it this pros and cons of of having continuous glucose monitoring and knowing every
+meal everything you do compared to just every 3 months so get your hemoglobin
+A1C and you can see oh I've been doing quite well I need to I need to do something is that is that fair to say
+that you're sort of yeah I mean I think it probably is going to come down to the person and and what they do with the CGM
+so for example in a person with with let's say let's say type two diabetes just to give you an example we want to
+keep an eye on blood pressure and cholesterol and glucose at the same time so if we give them a CGM but along with
+the CGM we emphasize don't you don't need to get completely flat you know
+have a lot of fruit and vegetables um and general healthy behaviors that we
+know even if people weren't using cgms are good because the point is when I
+think about cgms in type two diabetes it comes down to me well why do we want to gather information unless it's going to
+change the advice we give or what the patient does so the advice you would
+give a patient so if a patient has overweight or obesity it would about trying to help them with weight loss it would be trying to either use drugs you
+know medications or foods to lower their blood pressure and lower their cholesterol so my question is well what
+does a CGM add to that could it help people consume healthier foods that
+address all of the three risk factors and I think the answer is we don't actually know yet and I think it will
+probably come down to what a patient gets from it and how useful they find
+it okay I I think we'll start thinking about exercise a bit more any other thoughts on that Jonathan before we no
+maybe it's a good transition in the exercise though we've done a study with um my wife Dr Mary Jung who's a health
+CGMs, diet, behaviour change and exercise
+behavior um psychologist and where we partnered CGM in a small pilot study
+individuals with pre-diabetes and type to diabetes but then partnered it with behavior change techniques and and
+counseling to say you know here's what happened on a day when you did exercise we can see glucose was lower after after
+the meal and then that we showed in that study that they had greater adherence over an 8we uh exercise program and
+their motivation to exercise was higher so again very pilot study small but again that's where I think it could be
+useful if it's you know partnered with something um although there would be
+individual differences of course if you give it to some people and they're going to go and figure out on their own um and
+it may be beneficial for them but I think that's where I would think it would um good and that's where I think the literature suggests that too if you
+can partner with some some education and behavior change CGM could be very useful
+in that perfect so why don't we think as you touched on there that you know glucose levels can go down during
+exercise Etc how about you give a bit of a a background on what actually happens to to glucose uh during
+Glucose metabolism during exercise
+exercise and maybe we can also think about the acute so when you during the actual acute exercise and then maybe the
+you know the next couple days as well sure so maybe we'll start with all we've been talking about and what a CGM has
+measures is glucose concentration right that's not glucose flux so glucose
+concentration that we measure we've talked about 7 milles or whatever is a balance of what's coming into the system
+and what's going out of the system so what brings glucose in your liver as I mentioned is always leaking or trickling
+glucose into the system into the blood and then what you eat and digest and absorb so you have two kind of variables
+coming in and then the variable going out is we always think of in we're talk mode exercise muscle is sucking up
+glucose so it's going to be the balance of what's coming in and what's coming out so you start the exercise we
+probably all know this and it makes intuitive sense your muscle needs some energy so your muscle starts sucking out
+more glucose well the same uh thing when you start exercising there's some
+hormones released stress hormones catac colines which primarily tell your liver to start producing extra glucose and
+usually it's a pretty good balance so you don't see much of a change in your blood glucose concentration during
+exercise although the flux is is higher right where things get you know tricky
+or or different is that all depends on who you are your underlying physiology
+when you've eaten and what you've eaten because that brings another variable into the situation and then the intensity of exercise so I don't I'll
+let you take it from there um but that's that's what's going during exercise so things are and there's beautifully
+explained and it's the same with um you know people think about lactate threshold and oh my lactates went up that's my anerobic threshold no when
+you're exercising a low intensity you have more lactate production more lactate clearance it's only when it starts to accumulate same thing with
+with exercise so as you see you start exercise you might have a 10 20 fold increase in your glucose uptake by the
+muscle but you're actually releasing more glucose as well so the glucose concentration doesn't change it doesn't mean nothing's going on okay and then
+then what about if we because we've touched on and we'll talk about the effects of different intensities but we've touched on insulin sensitivity so
+Exercise and insulin sensitivity
+what what effect does that so you do your aced exercise the glucose levels may change may not you know if you go
+long enough they'll start to drop and then you might think about eating or drinking carbohydrate but um just say
+you've done an hour of exercise your glucose levels haven't really changed that much because they can be maintained for about an hour generally what happens
+for the next couple of days to your insul sensitivity yeah um so you know for the next 24 hours maybe up to 48 Hours your
+insulin sensitivity is improved which means or should mean I guess when you have a meal in the next 24 hours you
+either get less of a glucose Spike or to tie things together you might get the same glucose Spike but it cost you less
+insulin to clear that that glucose so I would say in definitely in individuals
+living with type two diabetes in our work we'll control diet um and have them
+exercise day or not exercise day and we can clearly see or usually clearly see depending on the exercise um intensity
+duration that sort of thing they'll have less glucose spikes after those meals which is likely indicative of improved
+insulin sensitivity individuals living with overweights and obesity we've shown that too for up to about 24 hours so you
+you exercise today and then tomorrow's breakfast we get less of a spike suggesting that insulin symes improved
+when you get to normal glycemic individuals I don't think we see much of
+a I don't think there's evidence in the literature i' I've actually never done uh published research study on this but
+even in the literature the insulin sensitizing effects of exercise will be
+there in someone who's normal glycemic but whether you see it on a CGM I'm not sure you will because it's partly it's
+just a regression to the mean or this the there's not enough room if you're so well controlled um to see an effect if
+you do a hyperemic ugic clamp yes you can see it if you give a you know a
+regular meal for lunch or dinner you may or may not see that in in someone who's uh normal glycemic does that help it
+does help a lot any thoughts Nicola you any clarification jabie all that yeah I mean I I think this area is one of those
+things again it kind of relates to this growing use of cgms and I think maybe at the end we're going to talk about bug
+bears that we have and one of them is this idea that influences our Stelling
+Effect of exercise on glucose spikes from a meal
+to be honest which is that cgms can be great because you can identify which foods that you can't tolerate whereas as
+John has explained and what the shows is depending on the type of exercise you do its intensity the effect on your glucose
+tolerance or insulin resistance or what you know however we describe it means that the banana you have before your
+exercise is going to have a different glucose response to eating the same banana in the immediate post exercise
+period and potentially versus eating that same banana the next day so because
+these you know the underlying stuff is changing the symptom that you get from it then responds and what people people
+interpret from that is if they have a a banana in this kind of insulin resistance phase following exercise it
+makes them look like it's shooting up um whereas actually it's not the banana it's what's going on underneath exactly
+all right and the and the interesting thing and again to tied in uh because the exercise has sort of just shifted
+things but it hasn't changed the physiology so again you have a spike if you if you've got normal glucose
+tolerance normal insulin sensitivity Etc and your a spike um you know you do your exercise and have your banana and you
+get a spike that's not anything to worry about but if you've got this underlying
+elevated glucose and you have a spike and it's less well great right and and if and if the actual underlying you know
+under the Bonnet the glucose is down a little bit because you've exercised that's great and if you get less of a
+spike that's great but again it's it's it's the underlying you know it's the
+it's the almost the set point that's the main thing is that fair to say it's not the spike so much yeah I think I would say summarize
+it by saying as we've emphasized I think throughout glucose is a symptom and in
+isolation doesn't tell you that much exactly right so we've talked about um just you know normal exercise you
+know submax exercise for example your glucose doesn't really change the the rate of appearance and the rate of disappearance is pretty equal if you go
+Intense exercise can increase blood glucose levels
+long enough it'll start to drop Etc but let's not get into all that but what about if you do you know and talk about these glucose spikes again so what about
+if you do really high intensity uh exercise what what happens yeah so if we think back to my what I
+just mentioned about fluxes and this is comes down to Classic work actually done in Canada at UFT by Marvel and branic um
+showing that in intense exercise you can sometimes overshoot that flux so the
+liver will produce too much or or extra then the muscle can take up so you actually get an increase in glucose
+during uh an intense or a maximal Bo of exercise if you look at the published
+studies uh which I think are the best from Marlo and frck that amount would go from five milles in a healthy person to
+seven or eight milles at the end of maybe 10 minutes of all out exercise so
+it's not a crazy Spike there's one or two older papers that suggest it maybe goes up to you know above 10 I think
+Philip Larson has work or you know published data and unpublished data in
+Elite Athletes Training hard that they say they can see 10 millimoles and above
+um it with with intense exercise so so and there may be some evidence that uh
+athletes have a a greater response there I think it's normal physiology that the liver's just you know uh responding to
+the catac Coline uh rush and and producing more glucose than the muscle can take up um and then we see and then
+those studies again from uh the best studies with glucose tracers and uh repeat blood samples every five minutes
+they show that it you then produce some insulin and it comes back down Within uh
+30 minutes after uh after about of exercise so um probably more to be done
+there in terms of you know Elite Athletes Training hard and different uh
+types of of of training combined with nutrition um because we've never had continuous glucose monitors to look at
+this every minute of every single day right um so it's probably been happening for as long as people have been
+exercising intensely in training we just now pick it up because you have a a CGM but if you go to literature it's there I
+think it's just a normal physiolog response exactly yeah sorry I think
+that's a great Point John because I I see in my practice athletes and you make such a good point that we've never seen
+this before because we've never had cgms and just reassuring people it's normal
+and I think when you look at the literature on the kind of exercise and when glucose Rises and by how much I
+mean the the two to three Millo per liter you described is actually quite a lot I mean that's um I mean I think to
+put it in milligram per deser you're sort of talking from going to from 90 maybe up to about 150 so it's not a
+small rise and what I do is I just reassure athletes particularly people
+doing tons and tons of endurance exercise expect your glucose to do crazy
+stuff and I think we get more data we can be be more precise than that but I
+Normal to have elevated glucose after intense exercise
+just reassure them that this kind of stuff happens it's normal don't worry about it it's totally normal it happens
+in everyone it happens in people with type 1 diabetes as well and I guess we people could look at Michael rell's chat
+that I had with him about about that you know what what should they do about their insulin um but yeah it's totally
+normal and and I don't know if we we actually know the reason but the feeling I I I always thought was you do the Hard
+Exercise you want to resynthesize your glycogen so it's actually a good thing to have this you know this this big
+catac colum in so Adrenaline Rush glucose is pumped out of the liver fast and the muscle takes it up the glucose
+is elevated and then the muscle can take it up right so it's almost like a good design I don't know if you guys have say
+yeah I would say also it probably makes sense you you if you're running away from the line or whatever it's better to
+overshoot and have have a little bit of extra for your muscles to be able to um
+to use than uh than to have too little um it's probably more complex than that
+but um but it it kind of makes sense to me that the system would be the pressure would be that way as opposed to the
+other way exactly and and a similar thing which is when you do acute exercise and then you have if you do an
+or glucose tolerance test for example after acute exercise you actually see a greater increase in glucose than normal
+so people think that's a bad thing that's the point I made about yeah that's the point I made about the banana if you're having the same glucose
+exposure at different points you're going to get a different response and like I said nothing to do with the banana it's
+what's happening underneath exactly so the good in a way that but that again sort of makes sense because you do
+exercise then you have to banana you actually get a greater glucose response than if you hadn't but again it looks
+like it's because the liver actually lets more of that glucose through so that the muscle then gets it so yeah so
+it means um yeah there's actually greater rate of glucose appearance after the exercise so it doesn't mean you've
+got a problem with your glucose tolerance the body's actually purposely Let Let It Go letting it go through so
+that I think so the muscle can get it okay now I know Jonathan's tied on time um do you have to go go or I I I do need
+to go in let's say two to three minutes but I guess you've never had two people
+I could leave and and Nicola could could stay on to answer any final questions yeah we haven't had any Twitter
+questions or anything yet see anything um so one thing I've lik doing um because large part of the reason I do
+insult exercise is I want people to get their information from the experts rather than from influencers so I'd like
+to ask people do they have any pet peeves about around this area Nicola
+Influencers misinterpreting data re glucose spikes etc
+happy to start yes um I really sympathize with the public because I think it is incredibly difficult now to
+identify who actually knows what they're talking about and there are so many MDS out there are you a name name podcast or
+should I just not I'm happy for you to I mean Peter R is a big one none of these
+people have ever to my knowledge been a principal investigator co- investigator on any study I don't think they have
+substantive experience in any of the things they're talking about and kind of as a person who understands the glucose
+literature I can see just how utterly misguided at best their
+interpretation of the literature is so just to give you an example because I have a patient who reads Peter aa's blog
+he describes this study and it was done in people without diabetes on you know oscillating glucose and it showed you
+get greater oxidative stress and Peter describes this because it's done in people without diabetes as oh you know
+oscillating glucose matters in healthy people if you look at the method what they did is gave people 5 Mill per liter
+or 15 Mill per liter so that's 90 to 270 milligram per Deiter but they went up to
+270 milligram per deciliter for six hours yes and then back that's got
+nothing to do with a gluc spike if you think six hours of something is comparable to 15 minutes you'd advise
+people to never go in a sauna because if you go in one for six hours you'd probably end up in a coma you know what I mean perfect it's a perfect example
+isn't it just it's ludicrous to think that these transient glucose increases
+probably go to 11 have anything to do and it's just this wild misinterpretation of a paper that was
+done to try to understand what the hypoglycemia in diabetes does to
+vascular function and then you get this questionable character this content
+creator that is telling his audience guys this is why you need a CGM so that's my pet peeve well you know it
+fits perfectly with I was thinking coup of times when we've been talking people with high blood pressure they have high blood pressure but when they exercise it
+goes higher oh therefore don't do it no exercise is good for high blood pressure Jonathan what pet peeve do you have yeah
+maybe in this space um it would be you know calling um 7.8 Mill Millo or 126
+Misunderstanding glucose cut offs
+migs per deciliter pre-diabetes glucose levels often times people use the wrong uh they don't use person first language
+too so they would say pre- diabe you say pre-diabetes but they'll say pre-diabetes glucose levels you know and we want to avoid that and again it's
+it's a misconception pre-diabetes glucose levels are two hours after
+having 75 grams of glucose in the morning after an overnight fast so 7.8
+millimolar 30 minutes after consuming a bagel is not it's normal physiology
+physiology and you didn't have that there'd be something wrong okay Jonathan I know you've got to race off but what I
+like to do is take away messages at the end so maybe Nicola can do that you can race off thank you very much for coming on I
+think we're on the same page and this was fun to be here again and uh great to to be on with you Nicola thank you very
+much thank you mate see bye bye okay so I wonder if we could finish
+up with some takeaway messages Nicola um I mean I I think John's point there
+Takeaway messages etc
+really highlights the thing that we've been talking about what we know is that your
+if your glucose is constantly elated if your tissues are exposed to chronically elevated glucose this is what
+pre-diabetes is this is what diabetes is this is how they're defined and what determines the negative Health
+consequences when we're talking about these brief glucose spikes as far as we know right now it's normal physiology
+and I'll maintain that view until we have evidence that suggests otherwise perfect right and and wonder
+if I just what I've got you I know it's a can of worms but but how do you respond to my friend saying oh I put on
+weight I I need to yeah I've got to go low
+Weight loss diet strategies
+cab if if a patient comes to see me and they're eager for weight loss and they want to talk about how to do it it's all
+about finding the right diet for them so for example if someone isn't that into
+starches you know if they're not big into bread and they're not big into potatoes low carb can be a great diet
+because you can have fish you can have vegetarian alternatives to meat you can
+have meat can have eggs ton of veggies some healthy fat it can be really
+filling really satisfying and it's something they can stick to and if that helps them lose weight fantastic but if
+someone for example comes from a culture where kind of you know breaking bread and sharing food and typically high
+starch diets that's going to be really tough to stick to because we you know we respond to social cues and all of those
+kind of things so I there is never one right diet for everyone I've seen low
+carb work brilliantly for many many patients who've struggled with every other kind of diet so very happy to
+endorse low carb is something that works um that doesn't mean that some of the exaggerated claims about low carb diets
+that we hear are necessarily true it's true and and then one other thing I just want to bring bring uh out so you know
+how you said as long as you're losing weight that's great but again obviously longterm so sorry it depends how long
+you keep doing this so yesterday I saw there's a show on here um and it was talking about cereals people using
+cereals as a snake and they were talking about I don't know if you have Special K yeah so they're talking about how
+special when Special K came out they made this big deal about if you have Special K um for breakfast and Special K
+for dinner and that's it you will lose weight and sure they did because that's all they had Special K for breakfast
+Special K for dinner but I'm assuming you wouldn't suggest people do that forever because what about all the other nutrients so even though generally we
+say losing weight is a good thing you still need to get the nutrients so bringing in what you said earlier about let's not miss out on all these great
+nutrius yeah I mean I think typically let's for example talk about very low
+energy diet this is a Formula based diet where people are basically having shakes and soups you only need to follow that
+for about 8 to 12 weeks and you can get to about 10 to 15 kilogram weight loss which about is close to the you know
+maximum that we see on average in most diets so they do really well the key is what you do long term so I actually I'm
+not that concerned generally about what people do if they want to lose weight really quick how they do it protein's
+probably very important because you're only doing that for eight weeks so you don't become
+vitamin you you possibly become slightly deficient in some but like things like
+fat soluble vitamins you would get many of these products do have vitamins and minerals anyway but even if they were
+doing it with the old school milk diet that used to be a thing people used to have milk for eight weeks sometimes
+they'd be recommended a vitamin tablet sometimes not it's only eight weeks true and then you think about nutrition
+afterwards so in an Ideal World you'd want you know a a nutritious multivitamin complete uh diet
+for 8 to 12 weeks but I wouldn't ever be you're right I'm never largely concerned about nutritional quality for very short
+periods that's true because it reminds me of I don't know if it's true or not but I saw someone who's got the world record for the longest time fasting so a
+guy who's massively overweight then he didn't eat for like six months or something and just drank water and he
+didn't die of um you know vitamin deficiencies I'm not Su suggesting people do it but that's just taking it
+to the nth degree now I know again I'm I'm kind of while I've got you I just
+know that you texted me and said I said one of the things I said is what something you're working on that you're excited about and you said amino acid
+Amino acids and insulin secretion
+stimulated insulin secretion would you like to have the opportunity to talk about that a little bit sure yeah I mean
+it's something that I I wish people knew more about and I wish there was more work on so this is when people develop
+type 2 diabetes their beta cells become less sensitive to changes in glucose so
+basically the beta cell has a sensor on it in healthy people as your glucose goes up the sensor goes oh my gosh
+glucose is going up hey ' got to produce insulin that sensor becomes less sensitive in type two diabetes so what
+happens is they'll have a meal they'll have some toast their glucose will go up but their sensor doesn't recognize it so
+the beta cells aren't as responsive as producing insulin but the really interesting thing is as far as we know
+the beta cells remain sensitive to changes in amino acid concentration in
+the blood so if the amino acid concentration goes up beta cells go who we got to produce insulin
+and so this is probably the reason the high protein diets work really well so I talked about yellow carb probably
+doesn't do much but if you combine low carb with high protein it's probably this insulinogenic amino acids that are
+causing a good insulin response boom it brings glucose right back down but the
+thing I I find really interesting I recently wrote a paper with Jim Johnson and team uh from UBC um in Canada
+looking at individual amino acids because the different Amo acids they work via distinct Pathways in the beta
+cell and there are probably some amino acids which are particularly insulinogenic and because they work via
+different Pathways they probably can work in quite a complementary fashion so I think there's work to to be done and
+Jim and I are going to be working on this to try to find an optimal mix of amino acids that you could have maybe in
+a supplement or however however it might work to stimulate insulin release and
+lower glucose and the most to me exciting part of this in terms of therapeutic potential potential of high
+protein diets or just mixtures of amino acids is long-standing type 2 diabetes
+because people with type 2 diabetes who've had it for like six years or more are much less likely to get remission
+even with marked weight loss because their beta cells simply don't come back they don't respond to glucose again I
+think and we think they respond to amino acids so we think we can personalize interventions for longstanding type two
+possibly get people off their insulin with um using these mixtures of amino acids okay well this is interesting and
+I again I can't let you go because I've had two I've had luk B Lon on
+Legend I love Luke vany's work it's phenomenal researcher yeah so people can
+look at that and I've had stew Phillips on and they're both saying you don't really need these high carb you know
+people are obsessed with protein you know go to the gym and they're just eating kilograms of chicken every
+millisecond and then protein powders straight after and and all sorts of things they were basically saying you
+you generally get enough protein from your diet most people and especially if you're exercising you get enough
+protein I'm wondering what you think about that because I just want to have I don't I want to have a see if there's
+continuity of and then diabetics are obviously different I guess oh for sure
+so so I mean I think I've seen Stu write about this on Twitter where I used to get all my information for it and I
+think he he would acknowledge I think you need probably around like 1.3 to maybe I think maxing out at 2.2 gram of
+protein per kilogram body weight probably than that yeah yeah big range
+um I mean I don't know this data intimately um I would argue so I I weight train I do lots of running I need
+a lot of protein but my calorie requirements aren't that high so I would argue for some people actually the supplements can be useful because they
+can just be a way of getting to your target but yes uh I would certainly agree that there comes to a point and I
+don't know exactly where it is I'm sure you do where getting more protein in doesn't do anything because you just
+oxidize it yeah and are you a fan of of food first I'm assuming you are based on
+the chat we've had rather than supplements I mean really depends on the
+person I mean food ideally for enjoyment um for the extra nutrients that you get in food but but personally protein I I
+would really struggle to get to my protein requirement without prot Powers W that's interesting okay so I do
+encourage people because I as I said earlier I'm not a big fan of supplement do encourage people to listen to steu Phillips and Luke bons to see what they
+say about that and one thing I wanted to say I've been trying to get Benta keen on so I've just been in Copenhagen for
+six months doing research from Copenhagen she's actually been doing research on Lower appro to doing more
+like 08 grams per kilogram and finding that people can actually sometimes exercise better because you know he said
+how Jonathan said earlier when you increase one macronutrient you're taking away from another so she's finding that
+people that have high protein diets tend to have lower carbohydrate they don't perform as well so there's there's more
+to be said in the space but um I'm trying to get on but has haven't had any
+luck yet so I guess I guess I'm not trying to take away from anything you said there but it's what am I saying um
+have a look at stews and Luke valon's chats about the protein needs and then think about whether you need to
+supplement or not and then supplement that knowledge with what Nichol just said does that fair to say um I thought
+so Luke Van Lon has some great papers in people with type two where he gives them
+added protein I think he he he might have added Lucin in as well and it goes back to this insulin response and and I
+I'm not a physiologist and this isn't my area but I think the point he was making is that in type two diabetes
+particularly older individuals they maybe don't get enough of an anabolic response to increase muscle protein
+synthesis and then those people um maybe it's the insulin helping the amino acids
+into the muscle I mean you the anabolic resistance stuff yeah and how exercise can improve that I think Luke's van
+lon's point was in people with type two diabetes actually again because of the insulinogenic effects of amino acids
+that can be useful for muscle protein synthesis in people with type two diabetes because they they don't produce
+as much insulin without acids so people can have a look at that that's great now I just realized we've already take away
+messages and then we talk some more and I just can't let you go and it's kind of weird because Jonathan's gone but anyway I'm having fun so hopefully people are
+having fun listening can we just finish up finish up so the last takeaway message should everyone and we kind of
+already know the answer but in case people jump straight to the takeaway messages should everyone can everyone benefit from having a continuous glos
+Should everyone use CGMs?
+monitor I feel like I'm making a judgment there that is speaking for
+people and I think it's really important for individuals to use have the freedom
+to use things as they see fit I guess I would clarify and say my concern is that
+CGM companies and nutrition companies who promote the use of CGM
+are uh being very dishonest or either they don't have the knowledge to I to
+tell this that cgms in people without diabetes actually don't tell you much at
+all and as we emphasize throughout this podcast glucose on its own doesn't tell
+you much at all it's a symptom of what's going on underneath in terms of the glucose spikes so to be a bit of a
+devil's advocate or not a devil's advocate just a Thinking Beyond that what if they had a glucose um continuous
+glucose monitor that continually continually measured
+insulin again I think you you'd want to do it with glucose and again it would go back to the comments I made you know
+what kills people EX in terms of the most people people that are affected by
+cardiovascular risk factors it's blood pressure and and then let's not forget life's supposed to be fun I I can't
+fathom the mental energy that people might be putting into measuring their glucose every five minutes their insulin
+every 10 minutes because if we get one of those spices you know recording their a dipon necting taping lipid panels
+every week it's like man just eat as healthy as you can exercise keep a healthy weight for most doing the job
+things get too comp at so we've often said on on here when it when we say what's the best exercise to do it's like
+we'll just go out and exercise the main problem is we don't have enough people exercising it's the same if they if
+Keep it simple re diet and exercise
+they're doing all those things you said and counting calories and who knows what else and then also going hang on should
+I do high intensity exercise low intensity exercise you know it just gets too complicated you know how long do I
+go for do I have a carbohydrate drink during it or not do I need to be hydrated before during after it just
+gets too complicated just go out there and do it yeah I think once you get to a certain level of exercise if you're a
+healthy weight your diet's pretty much okay beyond that as much as people don't
+want to hear it lots of things don't make any difference at all you know we don't have evidence they do so just
+relax and chill out and and I think it's really sad to me that people might be paying attention to things that they
+absolutely don't need to worry about um pay attention to people pay attention to your partner your friends rather than
+measuring your glucose every five minutes hoping it's going to you know tell you the meaning of life okay well
+thank you very much for your time your extra time and it was great having Jonathan on as well and uh I'll see you
+next time I'll see you around or something okay good on you see much bye bye bye I hope you enjoyed this podcast
+Outro
+please like subscribe pass it on to your friends and colleagues check out the other podcast thanks again
+

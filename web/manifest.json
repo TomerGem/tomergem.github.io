@@ -1,11 +1,11 @@
 {
-    "name": "landing_page",
-    "short_name": "landing_page",
+    "name": "EnduCloud",
+    "short_name": "EnduCloud",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "EnduCloud",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
