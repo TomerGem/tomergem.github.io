@@ -10,7 +10,7 @@ class ForgotPasswordView extends StatelessWidget {
         child: Text(
           textAlign: TextAlign.center,
           // 'Login Rejected',
-          'Lost Password',
+          'Password Reset',
           style: TextStyle(fontSize: 24),
         ),
       ),

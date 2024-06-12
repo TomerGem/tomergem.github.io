@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "961348677004",
-    "project_id": "enducloud-dev",
-    "storage_bucket": "enducloud-dev.appspot.com"
+    "project_number": "764750315271",
+    "firebase_url": "https://enducloud-default-rtdb.firebaseio.com",
+    "project_id": "enducloud",
+    "storage_bucket": "enducloud.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:961348677004:android:321a7c420308f27c83faa9",
+        "mobilesdk_app_id": "1:764750315271:android:353d1e80b8ec5da5620fa2",
         "android_client_info": {
           "package_name": "com.example.landing_page"
         }
       },
       "oauth_client": [
         {
-          "client_id": "961348677004-hhok55jjf7k610ei7elas1tm3tvptujs.apps.googleusercontent.com",
+          "client_id": "764750315271-tmcqrvjm1ghcupfhmbo754ojinrtmk7g.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDyfzwfu0Va97fFIjuvfvYzkUKhPQ594_I"
+          "current_key": "AIzaSyDtonkKyruDp3MWABDdpFJwnmnIQUOpgLk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "961348677004-hhok55jjf7k610ei7elas1tm3tvptujs.apps.googleusercontent.com",
+              "client_id": "764750315271-tmcqrvjm1ghcupfhmbo754ojinrtmk7g.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "764750315271-3bid6c2bqjjs9ngo45hr0b3gcr7diahc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.landingPage"
+              }
             }
           ]
         }

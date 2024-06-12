@@ -21,20 +21,11 @@ class DefaultFirebaseOptions {
     }
     switch (defaultTargetPlatform) {
       case TargetPlatform.android:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for android - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
+        return android;
       case TargetPlatform.iOS:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for ios - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
+        return ios;
       case TargetPlatform.macOS:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for macos - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
+        return macos;
       case TargetPlatform.windows:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for windows - '
@@ -58,7 +49,39 @@ class DefaultFirebaseOptions {
     messagingSenderId: '764750315271',
     projectId: 'enducloud',
     authDomain: 'enducloud.firebaseapp.com',
+    databaseURL: 'https://enducloud-default-rtdb.firebaseio.com',
     storageBucket: 'enducloud.appspot.com',
     measurementId: 'G-T1Y30DH2E5',
+  );
+
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyDtonkKyruDp3MWABDdpFJwnmnIQUOpgLk',
+    appId: '1:764750315271:android:353d1e80b8ec5da5620fa2',
+    messagingSenderId: '764750315271',
+    projectId: 'enducloud',
+    databaseURL: 'https://enducloud-default-rtdb.firebaseio.com',
+    storageBucket: 'enducloud.appspot.com',
+  );
+
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: 'AIzaSyA1yz8kDYL84pVkAPmhliEp0vjz1qaD56Q',
+    appId: '1:764750315271:ios:e186a8234011f4fa620fa2',
+    messagingSenderId: '764750315271',
+    projectId: 'enducloud',
+    databaseURL: 'https://enducloud-default-rtdb.firebaseio.com',
+    storageBucket: 'enducloud.appspot.com',
+    iosClientId: '764750315271-3bid6c2bqjjs9ngo45hr0b3gcr7diahc.apps.googleusercontent.com',
+    iosBundleId: 'com.example.landingPage',
+  );
+
+  static const FirebaseOptions macos = FirebaseOptions(
+    apiKey: 'AIzaSyA1yz8kDYL84pVkAPmhliEp0vjz1qaD56Q',
+    appId: '1:764750315271:ios:e186a8234011f4fa620fa2',
+    messagingSenderId: '764750315271',
+    projectId: 'enducloud',
+    databaseURL: 'https://enducloud-default-rtdb.firebaseio.com',
+    storageBucket: 'enducloud.appspot.com',
+    iosClientId: '764750315271-3bid6c2bqjjs9ngo45hr0b3gcr7diahc.apps.googleusercontent.com',
+    iosBundleId: 'com.example.landingPage',
   );
 }

@@ -1,0 +1,20 @@
+{
+    "invitation-list": {
+      "index": 3,
+      "emails": [
+        "third.record@dfsdfdgdfghfhfg.com",
+        "fourth.record@dfsdfdgdfghfhfg.com",
+        "tomer.geminder@gmail.com"
+      ]
+    },
+    "waiting-list": {
+      "index": 3,
+      "emails": [
+        "fifth.record@dfsdfdgdfghfhfg.com",
+        "sixes.record@dfsdfdgdfghfhfg.com",
+        "tomer.geminder@gmail.com"
+      ]
+    }
+}
+    
+    

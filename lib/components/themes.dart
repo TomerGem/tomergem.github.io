@@ -63,13 +63,77 @@ ThemeData get darkThemeData {
           Colors.grey,
         ),
         padding: MaterialStateProperty.all<EdgeInsets>(
-          const EdgeInsets.fromLTRB(40, 10, 40, 10),
+          const EdgeInsets.fromLTRB(20, 5, 20, 5),
         ),
         textStyle: MaterialStateProperty.all<TextStyle>(
           const TextStyle(
-            fontSize: 20,
+            fontSize: 15,
             fontWeight: FontWeight.bold,
           ),
+        ),
+      ),
+    ),
+    dialogTheme: const DialogTheme(
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.all(
+          Radius.circular(10),
+        ),
+      ),
+      backgroundColor: Colors.indigo,
+      titleTextStyle: TextStyle(
+        color: Colors.white,
+        fontSize: 20,
+        fontWeight: FontWeight.bold,
+      ),
+      contentTextStyle: TextStyle(
+        color: Colors.white,
+        fontSize: 16,
+      ),
+    ),
+    textButtonTheme: TextButtonThemeData(
+      style: ButtonStyle(
+        foregroundColor: MaterialStateProperty.all<Color>(
+          Colors.white,
+        ),
+        backgroundColor: MaterialStateProperty.all<Color>(
+          Colors.blue,
+        ),
+        overlayColor: MaterialStateProperty.all<Color>(
+          Colors.grey,
+        ),
+        padding: MaterialStateProperty.all<EdgeInsets>(
+          const EdgeInsets.fromLTRB(20, 5, 20, 5),
+        ),
+        textStyle: MaterialStateProperty.all<TextStyle>(
+          const TextStyle(
+            fontSize: 15,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+      ),
+    ),
+    inputDecorationTheme: const InputDecorationTheme(
+      labelStyle: TextStyle(
+        color: Colors.white,
+      ),
+      enabledBorder: OutlineInputBorder(
+        borderSide: BorderSide(
+          color: Colors.white,
+        ),
+      ),
+      focusedBorder: OutlineInputBorder(
+        borderSide: BorderSide(
+          color: Colors.white,
+        ),
+      ),
+      errorBorder: OutlineInputBorder(
+        borderSide: BorderSide(
+          color: Colors.red,
+        ),
+      ),
+      focusedErrorBorder: OutlineInputBorder(
+        borderSide: BorderSide(
+          color: Colors.red,
         ),
       ),
     ),

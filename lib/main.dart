@@ -1,8 +1,8 @@
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:landing_page/firebase_options.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:landing_page/features/authentication/presentation/authentication_view.dart';
-import 'package:landing_page/firebase_options.dart';
 import 'package:landing_page/components/themes.dart';
 import 'package:landing_page/components/routes.dart';
 import 'package:flutter_web_plugins/url_strategy.dart';

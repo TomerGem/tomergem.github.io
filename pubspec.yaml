@@ -1,5 +1,8 @@
 name: landing_page
-description: A new Flutter project.
+description: EnduCloud
+
+landing_page:
+  path: ../landing_page
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -39,9 +42,10 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   # firebase
-  firebase_core: ^2.13.0
-  firebase_auth: ^4.6.1
-  cloud_firestore: ^4.7.1
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  cloud_firestore: ^5.0.0
+  firebase_database: ^11.0.0
 
   # graphics
   flutter_svg: ^2.0.10+1
@@ -49,7 +53,7 @@ dependencies:
   # localizations
   flutter_localization: ^0.2.0  
   flutter_gen: ^5.0.0
-  intl: ^0.18.1
+  intl: ^0.19.0
     # flutter_gen/gen_l10n: ^5.0.0
 
   # state management
@@ -73,8 +77,16 @@ dependencies:
   # flutter UX
   flutter_slidable: any
   fluttertoast: ^8.2.5
+  provider: ^6.1.2
 
   # flutter_web_plugins: ^0.0.0
+
+  # flutter email
+  flutter_email_sender: ^6.0.0
+  cloud_functions: ^5.0.1
+
+
+
   
 
 
