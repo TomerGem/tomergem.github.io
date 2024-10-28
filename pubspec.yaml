@@ -24,6 +24,7 @@ version: 1.0.0+1
 
 environment:
   sdk: '>=3.3.0-174.3.beta <4.0.0'
+  
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -39,6 +40,7 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
+  font_awesome_flutter: ^10.0.0
   cupertino_icons: ^1.0.2
 
   # firebase
@@ -69,10 +71,17 @@ dependencies:
   equatable: ^2.0.3
 
   # service locator
-  get_it: ^7.2.0
+  get_it: ^8.0.0
 
   url_launcher: ^6.2.1
-  email_validator: ^2.1.17
+  universal_html: ^2.0.8
+  http: ^1.2.1
+  uni_links: ^0.5.1
+  go_router: ^14.2.0 
+  email_validator: ^3.0.0
+  image_picker: ^1.0.0
+  intl_phone_number_input: ^0.7.0+2
+
 
   # flutter UX
   flutter_slidable: any
@@ -80,11 +89,23 @@ dependencies:
   provider: ^6.1.2
 
   # flutter_web_plugins: ^0.0.0
+  
 
   # flutter email
   flutter_email_sender: ^6.0.0
   cloud_functions: ^5.0.1
 
+
+  # location services
+  # google_maps_flutter: ^2.1.1
+  # flutter_google_places: ^0.3.0
+  # flutter_google_places_hoc081098: ^2.0.0-beta.1
+  # google_maps_webservice: ^0.0.20-nullsafety.5
+
+#local dependencies
+  path_provider: ^2.0.9
+  flutter_webview_plugin: ^0.4.0
+  connectivity: ^3.0.6
 
 
   
@@ -94,7 +115,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^4.0.0
+  flutter_lints: ^5.0.0
   custom_lint: 
 
   build_runner: ^2.1.5
@@ -104,7 +125,7 @@ dev_dependencies:
   riverpod_generator: ^2.3.3
   riverpod_lint: ^2.1.1 
 
-  retrofit_generator: ^8.0.2
+  retrofit_generator: ^9.1.2
   floor_generator: ^1.0.0
   
 
@@ -121,7 +142,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    # - assets/
+    - assets/
     - assets/images/
 
   generate: true

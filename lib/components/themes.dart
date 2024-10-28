@@ -4,7 +4,7 @@ ThemeData get lightThemeData {
   return ThemeData(
     brightness: Brightness.light,
     colorScheme: const ColorScheme.light(
-      background: Colors.white,
+      surface: Colors.white,
       primary: Colors.blue,
       secondary: Colors.lightBlueAccent,
       onPrimary: Colors.black,
@@ -17,16 +17,16 @@ ThemeData get lightThemeData {
     scaffoldBackgroundColor: Colors.white,
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ButtonStyle(
-        backgroundColor: MaterialStateProperty.all<Color>(
+        backgroundColor: WidgetStateProperty.all<Color>(
           const Color.fromARGB(255, 21, 16, 83),
         ),
-        overlayColor: MaterialStateProperty.all<Color>(
+        overlayColor: WidgetStateProperty.all<Color>(
           Colors.grey,
         ),
-        padding: MaterialStateProperty.all<EdgeInsets>(
+        padding: WidgetStateProperty.all<EdgeInsets>(
           const EdgeInsets.fromLTRB(40, 10, 40, 10),
         ),
-        textStyle: MaterialStateProperty.all<TextStyle>(
+        textStyle: WidgetStateProperty.all<TextStyle>(
           const TextStyle(
             fontSize: 20,
             fontWeight: FontWeight.bold,
@@ -39,37 +39,53 @@ ThemeData get lightThemeData {
 
 // Define the default dark theme for the app
 
+final DarkBackground = Color.fromARGB(255, 23, 27, 63);
+
 ThemeData get darkThemeData {
   return ThemeData(
     brightness: Brightness.dark,
     colorScheme: const ColorScheme.dark(
-      background: Colors.indigo,
+      surface: Colors.black45,
       primary: Colors.blue,
       secondary: Colors.lightBlueAccent,
       onPrimary: Colors.white,
       onSecondary: Colors.white,
     ),
     appBarTheme: const AppBarTheme(
-      backgroundColor: Color.fromARGB(255, 53, 69, 156),
+      // backgroundColor: Colors.black,
       foregroundColor: Colors.white,
     ),
-    scaffoldBackgroundColor: Colors.indigo,
+    scaffoldBackgroundColor: DarkBackground,
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ButtonStyle(
-        backgroundColor: MaterialStateProperty.all<Color>(
-          const Color.fromARGB(255, 21, 16, 83),
+        backgroundColor: WidgetStateProperty.resolveWith<Color>(
+          (Set<WidgetState> states) {
+            if (states.contains(WidgetState.disabled)) {
+              return Colors.indigo
+                  .withOpacity(0.5); // Darker blue color when disabled
+            }
+            return Colors.indigo; // Original blue color when enabled
+          },
         ),
-        overlayColor: MaterialStateProperty.all<Color>(
+        overlayColor: WidgetStateProperty.all<Color>(
           Colors.grey,
         ),
-        padding: MaterialStateProperty.all<EdgeInsets>(
+        padding: WidgetStateProperty.all<EdgeInsets>(
           const EdgeInsets.fromLTRB(20, 5, 20, 5),
         ),
-        textStyle: MaterialStateProperty.all<TextStyle>(
+        textStyle: WidgetStateProperty.all<TextStyle>(
           const TextStyle(
             fontSize: 15,
             fontWeight: FontWeight.bold,
           ),
+        ),
+        foregroundColor: WidgetStateProperty.resolveWith<Color>(
+          (Set<WidgetState> states) {
+            if (states.contains(WidgetState.disabled)) {
+              return Colors.grey; // Gray color when disabled
+            }
+            return Colors.white; // White color when enabled
+          },
         ),
       ),
     ),
@@ -92,19 +108,19 @@ ThemeData get darkThemeData {
     ),
     textButtonTheme: TextButtonThemeData(
       style: ButtonStyle(
-        foregroundColor: MaterialStateProperty.all<Color>(
+        foregroundColor: WidgetStateProperty.all<Color>(
           Colors.white,
         ),
-        backgroundColor: MaterialStateProperty.all<Color>(
+        backgroundColor: WidgetStateProperty.all<Color>(
           Colors.blue,
         ),
-        overlayColor: MaterialStateProperty.all<Color>(
+        overlayColor: WidgetStateProperty.all<Color>(
           Colors.grey,
         ),
-        padding: MaterialStateProperty.all<EdgeInsets>(
+        padding: WidgetStateProperty.all<EdgeInsets>(
           const EdgeInsets.fromLTRB(20, 5, 20, 5),
         ),
-        textStyle: MaterialStateProperty.all<TextStyle>(
+        textStyle: WidgetStateProperty.all<TextStyle>(
           const TextStyle(
             fontSize: 15,
             fontWeight: FontWeight.bold,
@@ -136,6 +152,12 @@ ThemeData get darkThemeData {
           color: Colors.red,
         ),
       ),
+    ),
+    drawerTheme: const DrawerThemeData(
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.zero,
+      ),
+      elevation: 16,
     ),
   );
 }

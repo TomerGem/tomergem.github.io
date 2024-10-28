@@ -25,7 +25,9 @@ class AuthService {
       showSnackbar(context, message);
       return false;
     } catch (e) {
+      String message = 'An error occurred';
       // ToDo: Add error handling
+      showSnackbar(context, message);
       return false;
     }
     return true;
@@ -55,8 +57,13 @@ class AuthService {
       return false;
     } catch (e) {
       message = 'Login Error. Please try again later.';
+      showSnackbar(context, message);
       return false;
     }
     return true;
+  }
+
+  Future<void> signOut() async {
+    await FirebaseAuth.instance.signOut();
   }
 }

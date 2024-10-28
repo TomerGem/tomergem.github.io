@@ -5,6 +5,8 @@ import 'package:landing_page/features/authentication/domain/repositories/auth_re
 
 final emailProvider = StateProvider<String>((ref) => '');
 final passwordProvider = StateProvider<String>((ref) => '');
+final rememberMeProvider = StateProvider<bool>((ref) => false);
+final isSignedInProvider = StateProvider<bool>((ref) => false);
 
 final authStateProvider =
     StateNotifierProvider<AuthStateNotifier, AsyncValue<void>>((ref) {

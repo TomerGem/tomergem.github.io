@@ -1,164 +1,90 @@
-// import 'dart:math';
 import 'package:email_validator/email_validator.dart';
-// import 'package:firebase_core/firebase_core.dart';
-// import 'package:firebase_database/firebase_database.dart';
-// import 'package:flutter_email_sender/flutter_email_sender.dart';
-// import 'package:landing_page/firebase_options.dart';
-import 'package:flutter/material.dart';
-import 'package:landing_page/components/email_field.dart';
-// import 'package:landing_page/components/errordialog_util.dart';
-import 'package:landing_page/components/password_field.dart';
-// import 'package:landing_page/components/snackbar_util.dart';
-import 'package:landing_page/features/authentication/domain/auth_service.dart';
-// import 'package:landing_page/features/authentication/domain/invitation_service.dart';
-import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:landing_page/features/authentication/presentation/providers/auth_state_provider.dart';
-import 'package:landing_page/utilities/firebase_list_util.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_functions/cloud_functions.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
+import 'package:landing_page/components/cookies_warning.dart';
+import 'package:landing_page/components/email_field.dart';
+import 'package:landing_page/components/password_field.dart';
+import 'package:landing_page/features/authentication/presentation/providers/auth_state_provider.dart';
+import 'package:landing_page/features/authentication/domain/auth_service.dart';
+import 'package:landing_page/utilities/firebase_list_util.dart';
+import 'package:url_launcher/url_launcher.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:landing_page/config/env.dart';
 
 class SignupView extends ConsumerStatefulWidget {
-  const SignupView({Key? key});
+  const SignupView({super.key});
 
   @override
-  // ignore: library_private_types_in_public_api
   _SignupViewState createState() => _SignupViewState();
 }
 
 class _SignupViewState extends ConsumerState<SignupView> {
-  final passwordController = TextEditingController();
-  static const String logoAssetPath = 'assets/images/enducloud_logo_s.png';
-  // static const String databaseUrl =
-  //     'https://prod-firebase-rtdb.firebaseio.com/';
-  final DatabaseService _dbService = DatabaseService();
+  bool _isEmailValid = false;
+  bool _isPasswordValid = false;
+  final FirebaseAuth _auth = FirebaseAuth.instance;
+  final DatabaseService _dbService = DatabaseService(); // Added DatabaseService
+  bool _isCookiesWarningVisible = true;
 
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Sign Up'),
-      ),
-      body: Center(
-        child: Container(
-          width: 500, // Adjust the width as needed
-          height: 350, // Adjust the height as needed
-          decoration: BoxDecoration(
-              border: Border.all(color: Colors.black),
-              borderRadius: BorderRadius.circular(8),
-              color: Colors.indigo[800]),
-          padding: const EdgeInsets.all(20),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Expanded(
-                flex: 2,
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.start,
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Image.asset(
-                      logoAssetPath,
-                      height: 50,
-                      width: 50,
-                    ),
-                    const Text(
-                      'Create \r\nnew account',
-                      style: TextStyle(fontSize: 30),
-                    ),
-                    const Text(
-                      'Initial information',
-                      style: TextStyle(fontSize: 12),
-                    ),
-                  ],
-                ),
-              ),
-              Expanded(
-                flex: 2,
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  children: [
-                    EmailField(),
-                    const SizedBox(height: 16),
-                    const PasswordField(),
-                    const SizedBox(height: 16),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        GestureDetector(
-                          onTap: () {
-                            Navigator.pop(context);
-                            Navigator.pushNamed(context, '/login');
-                          },
-                          child: const Text(
-                            'Already \r\na member?',
-                          ),
-                        ),
-                        ElevatedButton(
-                          onPressed: () async {
-                            String email =
-                                ref.read(emailProvider.notifier).state;
-                            String password =
-                                ref.read(passwordProvider.notifier).state;
+  void _hideCookiesWarning() {
+    setState(() {
+      _isCookiesWarningVisible = false;
+    });
+  }
 
-                            if (!EmailValidator.validate(email)) {
-                              ScaffoldMessenger.of(context).showSnackBar(
-                                SnackBar(
-                                  content: Text('Invalid email format.'),
-                                ),
-                              );
-                              return;
-                            }
-
-                            try {
-                              List<String> emails = await _dbService
-                                  .fetchItems('invitation-list');
-                              if (emails.contains(email)) {
-                                await AuthService().signupWithEmailAndPassword(
-                                  context: context,
-                                  email: email,
-                                  password: password,
-                                );
-                              } else {
-                                addToWaitingListDialog(context, email);
-                              }
-                            } catch (error) {
-                              showDialog(
-                                context: context,
-                                builder: (BuildContext context) {
-                                  return AlertDialog(
-                                    title: const Text('Error'),
-                                    content: Text(
-                                        'Error fetching waitingList: $error'),
-                                    actions: [
-                                      TextButton(
-                                        child: const Text('OK'),
-                                        onPressed: () {
-                                          Navigator.of(context).pop();
-                                        },
-                                      ),
-                                    ],
-                                  );
-                                },
-                              );
-                            }
-                          },
-                          //Todo: Add you can add your email to the waiting list here
-                          //ToDo: disable the button if the email is not valid
-                          //ToDo: disable the button if the password is not valid
-                          //ToDo: Check if ;email is in the invite list
-
-                          child: const Text('Next'),
-                        ),
-                      ],
-                    ),
-                  ],
-                ),
+  Future<void> signupUser(String email, String password) async {
+    try {
+      List<String> emails = await _dbService.fetchItems('invitation-list');
+      if (emails.contains(email)) {
+        try {
+          final result = await AuthService().signupWithEmailAndPassword(
+            context: context,
+            email: email.trim(),
+            password: password.trim(),
+          );
+          if (result) {
+            ref.read(isSignedInProvider.notifier).state = true;
+            context.go('/registration');
+          }
+        } on FirebaseAuthException catch (e) {
+          if (e.code == 'wrong-password' || e.code == 'user-not-found') {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(content: Text('Invalid email or password')),
+            );
+          } else {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(content: Text('Error: ${e.message}')),
+            );
+          }
+        } catch (e) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text('Error: $e')),
+          );
+        }
+      } else {
+        addToWaitingListDialog(context, email);
+      }
+    } catch (error) {
+      showDialog(
+        context: context,
+        builder: (BuildContext context) {
+          return AlertDialog(
+            title: const Text('Error'),
+            content: Text('Error fetching invitation list: $error'),
+            actions: [
+              TextButton(
+                child: const Text('OK'),
+                onPressed: () {
+                  context.pop();
+                },
               ),
             ],
-          ),
-        ),
-      ),
-    );
+          );
+        },
+      );
+    }
   }
 
   void addToWaitingListDialog(BuildContext context, String email) async {
@@ -182,23 +108,20 @@ class _SignupViewState extends ConsumerState<SignupView> {
                         content: Text('Email already in the waiting list.'),
                       ),
                     );
-                    Navigator.of(context).pop();
-                    Navigator.pushNamed(context, '/login');
+                    context.go('/login');
                   } else {
                     await _dbService.addItemToList('waiting-list', email);
-                    Navigator.of(context).pop();
+                    context.pop();
                     ScaffoldMessenger.of(context).showSnackBar(
                       SnackBar(
                         content: Text('Email added to waiting list.'),
                       ),
                     );
                     sendConfirmationEmail(email);
-
-                    Navigator.of(context).pop();
-                    Navigator.pushNamed(context, '/login');
+                    context.go('/login');
                   }
                 } catch (error) {
-                  Navigator.of(context).pop();
+                  context.pop();
                   showDialog(
                     context: context,
                     builder: (BuildContext context) {
@@ -209,7 +132,7 @@ class _SignupViewState extends ConsumerState<SignupView> {
                           TextButton(
                             child: const Text('OK'),
                             onPressed: () {
-                              Navigator.of(context).pop();
+                              context.pop();
                             },
                           ),
                         ],
@@ -222,7 +145,7 @@ class _SignupViewState extends ConsumerState<SignupView> {
             TextButton(
               child: const Text('Cancel'),
               onPressed: () {
-                Navigator.of(context).pop();
+                context.pop();
               },
             ),
           ],
@@ -246,5 +169,243 @@ class _SignupViewState extends ConsumerState<SignupView> {
     } catch (error) {
       print('Error sending confirmation email: $error');
     }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (_auth.currentUser != null) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        context.go(
+            '/dashboard'); // Redirect to authentication view if not logged in
+      });
+      return const SizedBox.shrink(); // Empty widget while redirecting
+    }
+
+    bool _validatePassword(String value) {
+      return (value.length >= 8 || value.isEmpty);
+    }
+
+    ref.listen<String>(emailProvider, (previous, next) {
+      setState(() {
+        _isEmailValid = EmailValidator.validate(next);
+      });
+    });
+
+    ref.listen<String>(passwordProvider, (previous, next) {
+      setState(() {
+        _isPasswordValid = _validatePassword(next);
+      });
+    });
+
+    return Scaffold(
+      body: Stack(
+        children: [
+          Center(
+            child: Column(
+              mainAxisSize: MainAxisSize.max,
+              children: [
+                Expanded(
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Image.asset(
+                            logoImageM,
+                            height: 100, // Reduced logo size
+                            width: 100, // Reduced logo size
+                          ),
+                          const SizedBox(width: 10),
+                          Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: const [
+                              Text(
+                                'Welcome!',
+                                style: TextStyle(
+                                  color: Color.fromARGB(255, 245, 227, 69),
+                                  fontSize: 40,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              Text(
+                                'to EnduCloud MVP',
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 20,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 10),
+                      SizedBox(
+                        width: 300,
+                        child: ElevatedButton.icon(
+                          icon: const Icon(Icons.facebook, color: Colors.white),
+                          label: const Text(
+                            'Sign up using Facebook (Soon)',
+                            style: TextStyle(color: Colors.white),
+                          ),
+                          onPressed: () {
+                            // Handle Facebook login
+                          },
+                          style: ElevatedButton.styleFrom(
+                            backgroundColor:
+                                Color(0xFF1877F2), // Facebook blue color
+                            shape: RoundedRectangleBorder(
+                              borderRadius:
+                                  BorderRadius.all(Radius.circular(10)),
+                            ),
+                            minimumSize: const Size(250, 50),
+                            elevation: 0,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 10),
+                      SizedBox(
+                        width: 300,
+                        child: ElevatedButton.icon(
+                          icon: const FaIcon(
+                            FontAwesomeIcons.google,
+                            size: 20,
+                          ),
+                          label: const Text(
+                            'Sign up using Google (Soon)',
+                            style: TextStyle(color: Colors.black),
+                          ),
+                          onPressed: () {
+                            // Handle Google login
+                          },
+                          style: ElevatedButton.styleFrom(
+                            backgroundColor: Colors.white, // White background
+                            shape: RoundedRectangleBorder(
+                              borderRadius:
+                                  BorderRadius.all(Radius.circular(10)),
+                            ),
+                            minimumSize: const Size(250, 50),
+                            elevation: 0,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 20),
+                      const Text(
+                        'Or sign up with email',
+                        style: TextStyle(fontSize: 16),
+                      ),
+                      const SizedBox(height: 10),
+                      SizedBox(
+                        width: 300,
+                        child: Column(
+                          children: [
+                            const EmailField(),
+                            const SizedBox(height: 15),
+                            PasswordField(),
+                            const SizedBox(height: 10),
+                            Row(
+                              children: [
+                                Checkbox(
+                                  value: ref.watch(rememberMeProvider),
+                                  onChanged: (bool? value) {
+                                    ref
+                                        .read(rememberMeProvider.notifier)
+                                        .state = value!;
+                                  },
+                                ),
+                                const Text(
+                                  'Remember me',
+                                ),
+                              ],
+                            ),
+                            SizedBox(
+                              width: 300,
+                              child: ElevatedButton(
+                                onPressed: _isEmailValid && _isPasswordValid
+                                    ? () async {
+                                        final email = ref.read(emailProvider);
+                                        final password =
+                                            ref.read(passwordProvider);
+                                        await signupUser(email, password);
+                                      }
+                                    : null,
+                                child: const Text(
+                                  'Sign Up',
+                                ),
+                                style: ElevatedButton.styleFrom(
+                                  shape: RoundedRectangleBorder(
+                                    borderRadius:
+                                        BorderRadius.all(Radius.circular(10)),
+                                  ),
+                                  minimumSize: const Size(250, 50),
+                                  elevation: 0,
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      const SizedBox(height: 10),
+                      GestureDetector(
+                        onTap: () {
+                          context.go('/login');
+                        },
+                        child: const Text(
+                          'Already Signed Up?',
+                          style: TextStyle(color: Colors.white),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                Column(
+                  mainAxisAlignment: MainAxisAlignment.end,
+                  children: [
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        GestureDetector(
+                          onTap: () {
+                            _launchURL(privacyUrl);
+                          },
+                          child: const Text(
+                            'Privacy Policy',
+                          ),
+                        ),
+                        const Text(
+                          ' | ',
+                        ),
+                        GestureDetector(
+                          onTap: () {
+                            _launchURL(aboutUrl);
+                          },
+                          child: const Text(
+                            'About',
+                          ),
+                        ),
+                      ],
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 10),
+              ],
+            ),
+          ),
+          if (_isCookiesWarningVisible)
+            Positioned(
+                bottom: 40,
+                left: 20,
+                right: 20,
+                child: CookiesWarning(onClose: _hideCookiesWarning)),
+        ],
+      ),
+    );
+  }
+
+  Future<void> _launchURL(String url) async {
+    await canLaunchUrl(Uri.parse(url))
+        ? await launchUrl(Uri.parse(url))
+        : throw 'Could not launch $url';
   }
 }

@@ -1,0 +1,13 @@
+{
+    "targets": [{
+      "target": {
+        "namespace": "intent",
+        "package_name": "flutter.landing_page"
+      },
+      "links": [{
+        "rel": "alternate",
+        "href": "https://presumably-rested-pig.ngrok-free.app/"  
+      }]
+    }]
+  }
+  

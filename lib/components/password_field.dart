@@ -1,18 +1,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:landing_page/features/authentication/presentation/providers/auth_state_provider.dart';
+
+import '../features/authentication/presentation/providers/auth_state_provider.dart';
 
 class PasswordField extends ConsumerStatefulWidget {
+  // final TextEditingController? controller;
+
   const PasswordField({super.key});
 
   @override
-  // ignore: library_private_types_in_public_api
   _PasswordFieldState createState() => _PasswordFieldState();
 }
 
 class _PasswordFieldState extends ConsumerState<PasswordField> {
   final passwordController = TextEditingController();
-  var _obscureText = true; // Set the initial value of obscureText
+  bool _obscureText = true;
   bool _isValid = true;
 
   @override
@@ -21,11 +23,8 @@ class _PasswordFieldState extends ConsumerState<PasswordField> {
     passwordController.addListener(_updatePassword);
   }
 
-  @override
-  void dispose() {
-    passwordController.removeListener(_updatePassword);
-    passwordController.dispose();
-    super.dispose();
+  bool _validatePassword(String value) {
+    return (value.length >= 8 || value.isEmpty);
   }
 
   void _updatePassword() {
@@ -33,43 +32,40 @@ class _PasswordFieldState extends ConsumerState<PasswordField> {
   }
 
   @override
+  void dispose() {
+    passwordController.removeListener(_updatePassword);
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
-    return TextFormField(
+    return TextField(
       controller: passwordController,
-      keyboardType: TextInputType
-          .visiblePassword, // Set the controller for the text field
       obscureText: _obscureText,
-      autocorrect: false,
-      // suffixIcon: widget.suffixIcon, // Use the defined suffixIcon parameter
       decoration: InputDecoration(
         labelText: 'Password',
-        hintText: 'Enter password',
-        errorText: _isValid ? null : 'Invalid password',
-        prefixIcon: const Icon(Icons.password),
-        suffixIcon: GestureDetector(
-          onTap: () {
+        errorText: _isValid ? null : 'Password too short',
+        suffixIcon: IconButton(
+          icon: Icon(_obscureText ? Icons.visibility : Icons.visibility_off),
+          onPressed: () {
             setState(() {
-              _obscureText = !_obscureText; // Toggle the value of obscureText
+              _obscureText = !_obscureText;
             });
           },
-          child: Icon(
-            _obscureText ? Icons.visibility_off : Icons.visibility,
-            color: Colors.grey,
-          ),
         ),
+        prefixIcon: const Icon(Icons.lock),
       ),
       textInputAction: TextInputAction.done,
       onChanged: (value) {
         setState(() {
-          _isValid = value.isEmpty ||
-              value.length >= 8; // Check if password is at least 8 characters
+          _isValid = _validatePassword(value) || value.isEmpty;
         });
       },
       onEditingComplete: () {
         if (_isValid) {
-          // Password is valid, do something
+          // Email is valid, do something
         } else {
-          // Password is not valid, handle the error
+          // Email is not valid, handle the error
         }
       },
     );
